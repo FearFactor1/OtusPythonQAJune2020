@@ -2,7 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/OtusPythonQAJune2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OtusPythonQAJune2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/test-data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/chardetect" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/easy_install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/easy_install-3.8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pip3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pip3.8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/py.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pytest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/python3.8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/data/1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/data/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/data/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/data/data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/data/data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/data/passengers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/iterators/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/iterators/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/iterators/my_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/read/b_soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/read/context_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/read/csv_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/read/dump.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/read/html_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/read/json_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/read/read_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/read/read_yml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/read/sqlite_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/read/xml_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/tests/test_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/tests/url_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/write/context_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/write/csv_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/write/items2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/write/json_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/write/new.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/write/new_context.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/write/new_json.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/write/txt_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/test-data/write/xml_writer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,55 +76,134 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1e0RLi7grrineEr60TLoKJ3yJMo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_first.test_firsts">
-    <configuration name="pytest for test_first.test_firsts" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.my_iter">
+    <configuration name="html_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/test-data/read" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_first.test_firsts&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/test-data/read/html_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_first.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="my_iter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/test-data/iterators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson1/test_first.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/test-data/iterators/my_iter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_yml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/test-data/read" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/test-data/read/read_yml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="txt_writer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/test-data/write" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/test-data/write/txt_writer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/test-data/read" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/test-data/read/xml_reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_first.test_firsts" />
-        <item itemvalue="Python tests.pytest in test_first.py" />
+        <item itemvalue="Python.my_iter" />
+        <item itemvalue="Python.txt_writer" />
+        <item itemvalue="Python.html_parser" />
+        <item itemvalue="Python.read_yml" />
+        <item itemvalue="Python.xml_reader" />
       </list>
     </recent_temporary>
   </component>
@@ -112,13 +246,22 @@
       <option name="project" value="LOCAL" />
       <updated>1593461352783</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson 2">
+      <created>1594242050329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594242050329</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
     <MESSAGE value="проверка пуш" />
-    <option name="LAST_COMMIT_MESSAGE" value="проверка пуш" />
+    <MESSAGE value="lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1165" y="561" width="751" height="277" key="#Notifications" timestamp="1593459795732">
@@ -129,10 +272,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593461201122" />
-    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1593461352501">
+    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1594242049978">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1593461352501" />
+    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594242049978" />
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1593459902468">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -153,30 +296,46 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="2538" height="345" key="GridCell.Tab.0.bottom" timestamp="1594060063126">
+    <state width="2538" height="345" key="GridCell.Tab.0.bottom" timestamp="1594382795676">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="345" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594060063126" />
-    <state width="2538" height="345" key="GridCell.Tab.0.center" timestamp="1594060063126">
+    <state width="2538" height="345" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594382795676" />
+    <state width="2538" height="345" key="GridCell.Tab.0.center" timestamp="1594382795676">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="345" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594060063126" />
-    <state width="2538" height="345" key="GridCell.Tab.0.left" timestamp="1594060063126">
+    <state width="2538" height="345" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594382795676" />
+    <state width="2538" height="345" key="GridCell.Tab.0.left" timestamp="1594382795676">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="345" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594060063126" />
-    <state width="2538" height="345" key="GridCell.Tab.0.right" timestamp="1594060063126">
+    <state width="2538" height="345" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594382795676" />
+    <state width="2538" height="345" key="GridCell.Tab.0.right" timestamp="1594382795676">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="345" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594060063126" />
+    <state width="2538" height="345" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594382795676" />
+    <state width="2538" height="486" key="GridCell.Tab.1.bottom" timestamp="1594306875217">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="486" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594306875217" />
+    <state width="2538" height="486" key="GridCell.Tab.1.center" timestamp="1594306875217">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="486" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594306875217" />
+    <state width="2538" height="486" key="GridCell.Tab.1.left" timestamp="1594306875217">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="486" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594306875217" />
+    <state width="2538" height="486" key="GridCell.Tab.1.right" timestamp="1594306875217">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="486" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594306875217" />
     <state x="1418" y="332" key="SettingsEditor" timestamp="1593461159985">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1593461159985" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1593461362040">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594242060258">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1593461362040" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594242060258" />
     <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593459966165">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -193,5 +352,16 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1044" y="600" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593460838320" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson2/0_pytest_intro/test_pytest_intro.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
