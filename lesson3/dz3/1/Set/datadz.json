@@ -1,0 +1,25 @@
+{
+  "clubs": [
+    {
+      "name": "Milan",
+      "champions_cub": "9",
+      "email": "Milanfan@mail.ru",
+      "city": "Milan",
+      "index": 12345
+    },
+    {
+      "name": "Real",
+      "champions_cub": "6",
+      "email": "Realfan@mail.ru",
+      "city": "Madrid",
+      "index": 65758
+    },
+    {
+      "name": "Porto",
+      "champions_cub": "4",
+      "email": "Portofan@mail.ru",
+      "city": "Porto",
+      "index": 65758
+    }
+  ]
+}
