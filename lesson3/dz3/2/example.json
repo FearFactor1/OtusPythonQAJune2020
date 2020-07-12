@@ -1,0 +1,1620 @@
+{
+    "1": [
+        "Lolita Lynn",
+        "female",
+        "389 Neptune Avenue, Belfair, Iowa, 6116"
+    ],
+    "2": [
+        "Tonia Hurst",
+        "female",
+        "917 Terrace Place, Urbana, Idaho, 684"
+    ],
+    "3": [
+        "Brooks Bright",
+        "male",
+        "901 Mermaid Avenue, Wyoming, Marshall Islands, 8506"
+    ],
+    "4": [
+        "Kathrine Sharp",
+        "female",
+        "989 Huron Street, Talpa, Utah, 7018"
+    ],
+    "5": [
+        "Shawn Harrell",
+        "female",
+        "534 Hinsdale Street, Albany, Palau, 3291"
+    ],
+    "6": [
+        "Amy Casey",
+        "female",
+        "589 Townsend Street, Hiseville, Connecticut, 7082"
+    ],
+    "7": [
+        "Lorena Mejia",
+        "female",
+        "614 High Street, Blanford, Maryland, 2776"
+    ],
+    "8": [
+        "Allyson Wilkins",
+        "female",
+        "572 Downing Street, Ivanhoe, American Samoa, 8235"
+    ],
+    "9": [
+        "Mays Reed",
+        "male",
+        "306 Georgia Avenue, Hall, New Mexico, 1402"
+    ],
+    "10": [
+        "Katherine Mayer",
+        "female",
+        "640 Prescott Place, Curtice, Kansas, 3395"
+    ],
+    "11": [
+        "Kelly Byers",
+        "female",
+        "865 Revere Place, Homeland, Arizona, 232"
+    ],
+    "12": [
+        "Schwartz Carey",
+        "male",
+        "860 Centre Street, Hiwasse, Nevada, 2819"
+    ],
+    "13": [
+        "Kay Beasley",
+        "female",
+        "358 Sutton Street, Bellamy, Ohio, 8845"
+    ],
+    "14": [
+        "Robbins Gordon",
+        "male",
+        "610 Langham Street, Boykin, Guam, 6688"
+    ],
+    "15": [
+        "Hillary Bauer",
+        "female",
+        "951 Cumberland Street, Alleghenyville, Oregon, 7073"
+    ],
+    "16": [
+        "Ruiz Phelps",
+        "male",
+        "836 Troutman Street, Harborton, Kentucky, 4030"
+    ],
+    "17": [
+        "Carolina Bryant",
+        "female",
+        "377 Middagh Street, Ellerslie, Nebraska, 2644"
+    ],
+    "18": [
+        "Sosa Lee",
+        "male",
+        "364 Holly Street, Omar, California, 5140"
+    ],
+    "19": [
+        "Lorna Scott",
+        "female",
+        "878 Marconi Place, Gerton, Alabama, 845"
+    ],
+    "20": [
+        "Bernard Holden",
+        "male",
+        "674 Pine Street, Conestoga, Mississippi, 4727"
+    ],
+    "21": [
+        "Craft Shields",
+        "male",
+        "586 Java Street, Catherine, Arkansas, 1445"
+    ],
+    "22": [
+        "Mara English",
+        "female",
+        "324 Herkimer Court, Boomer, Delaware, 5367"
+    ],
+    "23": [
+        "Fisher Levy",
+        "male",
+        "540 Adler Place, Hachita, Federated States Of Micronesia, 9894"
+    ],
+    "24": [
+        "Cecelia Snyder",
+        "female",
+        "236 Anchorage Place, Odessa, Michigan, 6314"
+    ],
+    "25": [
+        "Nina Kaufman",
+        "female",
+        "538 Ashford Street, Boling, West Virginia, 7840"
+    ],
+    "26": [
+        "Dillard Branch",
+        "male",
+        "225 Hampton Avenue, Bethany, Pennsylvania, 8056"
+    ],
+    "27": [
+        "Dyer Bartlett",
+        "male",
+        "880 Meadow Street, Seymour, Puerto Rico, 7921"
+    ],
+    "28": [
+        "Tyler Dotson",
+        "male",
+        "220 Herkimer Place, Turpin, Oklahoma, 4468"
+    ]
+}{
+    "1": {
+        "Title": "Fundamentals of Wavelets",
+        "Author": "Goswami, Jaideva",
+        "Genre": "signal_processing",
+        "Height": "228",
+        "Publisher": "Wiley"
+    },
+    "2": {
+        "Title": "Data Smart",
+        "Author": "Foreman, John",
+        "Genre": "data_science",
+        "Height": "235",
+        "Publisher": "Wiley"
+    },
+    "3": {
+        "Title": "God Created the Integers",
+        "Author": "Hawking, Stephen",
+        "Genre": "mathematics",
+        "Height": "197",
+        "Publisher": "Penguin"
+    },
+    "4": {
+        "Title": "Superfreakonomics",
+        "Author": "Dubner, Stephen",
+        "Genre": "economics",
+        "Height": "179",
+        "Publisher": "HarperCollins"
+    },
+    "5": {
+        "Title": "Orientalism",
+        "Author": "Said, Edward",
+        "Genre": "history",
+        "Height": "197",
+        "Publisher": "Penguin"
+    },
+    "6": {
+        "Title": "Nature of Statistical Learning Theory, The",
+        "Author": "Vapnik, Vladimir",
+        "Genre": "data_science",
+        "Height": "230",
+        "Publisher": "Springer"
+    },
+    "7": {
+        "Title": "Integration of the Indian States",
+        "Author": "Menon, V P",
+        "Genre": "history",
+        "Height": "217",
+        "Publisher": "Orient Blackswan"
+    },
+    "8": {
+        "Title": "Drunkard's Walk, The",
+        "Author": "Mlodinow, Leonard",
+        "Genre": "science",
+        "Height": "197",
+        "Publisher": "Penguin"
+    },
+    "9": {
+        "Title": "Image Processing & Mathematical Morphology",
+        "Author": "Shih, Frank",
+        "Genre": "signal_processing",
+        "Height": "241",
+        "Publisher": "CRC"
+    },
+    "10": {
+        "Title": "How to Think Like Sherlock Holmes",
+        "Author": "Konnikova, Maria",
+        "Genre": "psychology",
+        "Height": "240",
+        "Publisher": "Penguin"
+    },
+    "11": {
+        "Title": "Data Scientists at Work",
+        "Author": "Sebastian Gutierrez",
+        "Genre": "data_science",
+        "Height": "230",
+        "Publisher": "Apress"
+    },
+    "12": {
+        "Title": "Slaughterhouse Five",
+        "Author": "Vonnegut, Kurt",
+        "Genre": "fiction",
+        "Height": "198",
+        "Publisher": "Random House"
+    },
+    "13": {
+        "Title": "Birth of a Theorem",
+        "Author": "Villani, Cedric",
+        "Genre": "mathematics",
+        "Height": "234",
+        "Publisher": "Bodley Head"
+    },
+    "14": {
+        "Title": "Structure & Interpretation of Computer Programs",
+        "Author": "Sussman, Gerald",
+        "Genre": "computer_science",
+        "Height": "240",
+        "Publisher": "MIT Press"
+    },
+    "15": {
+        "Title": "Age of Wrath, The",
+        "Author": "Eraly, Abraham",
+        "Genre": "history",
+        "Height": "238",
+        "Publisher": "Penguin"
+    },
+    "16": {
+        "Title": "Trial, The",
+        "Author": "Kafka, Frank",
+        "Genre": "fiction",
+        "Height": "198",
+        "Publisher": "Random House"
+    },
+    "17": {
+        "Title": "Statistical Decision Theory'",
+        "Author": "Pratt, John",
+        "Genre": "data_science",
+        "Height": "236",
+        "Publisher": "MIT Press"
+    },
+    "18": {
+        "Title": "Data Mining Handbook",
+        "Author": "Nisbet, Robert",
+        "Genre": "data_science",
+        "Height": "242",
+        "Publisher": "Apress"
+    },
+    "19": {
+        "Title": "New Machiavelli, The",
+        "Author": "Wells, H. G.",
+        "Genre": "fiction",
+        "Height": "180",
+        "Publisher": "Penguin"
+    },
+    "20": {
+        "Title": "Physics & Philosophy",
+        "Author": "Heisenberg, Werner",
+        "Genre": "science",
+        "Height": "197",
+        "Publisher": "Penguin"
+    },
+    "21": {
+        "Title": "Making Software",
+        "Author": "Oram, Andy",
+        "Genre": "computer_science",
+        "Height": "232",
+        "Publisher": "O'Reilly"
+    },
+    "22": {
+        "Title": "Analysis, Vol I",
+        "Author": "Tao, Terence",
+        "Genre": "mathematics",
+        "Height": "248",
+        "Publisher": "HBA"
+    },
+    "23": {
+        "Title": "Machine Learning for Hackers",
+        "Author": "Conway, Drew",
+        "Genre": "data_science",
+        "Height": "233",
+        "Publisher": "O'Reilly"
+    },
+    "24": {
+        "Title": "Signal and the Noise, The",
+        "Author": "Silver, Nate",
+        "Genre": "data_science",
+        "Height": "233",
+        "Publisher": "Penguin"
+    },
+    "25": {
+        "Title": "Python for Data Analysis",
+        "Author": "McKinney, Wes",
+        "Genre": "data_science",
+        "Height": "233",
+        "Publisher": "O'Reilly"
+    },
+    "26": {
+        "Title": "Introduction to Algorithms",
+        "Author": "Cormen, Thomas",
+        "Genre": "computer_science",
+        "Height": "234",
+        "Publisher": "MIT Press"
+    },
+    "27": {
+        "Title": "Beautiful and the Damned, The",
+        "Author": "Deb, Siddhartha",
+        "Genre": "nonfiction",
+        "Height": "198",
+        "Publisher": "Penguin"
+    },
+    "28": {
+        "Title": "Outsider, The",
+        "Author": "Camus, Albert",
+        "Genre": "fiction",
+        "Height": "198",
+        "Publisher": "Penguin"
+    },
+    "29": {
+        "Title": "Complete Sherlock Holmes, The - Vol I",
+        "Author": "Doyle, Arthur Conan",
+        "Genre": "fiction",
+        "Height": "176",
+        "Publisher": "Random House"
+    },
+    "30": {
+        "Title": "Complete Sherlock Holmes, The - Vol II",
+        "Author": "Doyle, Arthur Conan",
+        "Genre": "fiction",
+        "Height": "176",
+        "Publisher": "Random House"
+    },
+    "31": {
+        "Title": "Wealth of Nations, The",
+        "Author": "Smith, Adam",
+        "Genre": "economics",
+        "Height": "175",
+        "Publisher": "Random House"
+    },
+    "32": {
+        "Title": "Pillars of the Earth, The",
+        "Author": "Follett, Ken",
+        "Genre": "fiction",
+        "Height": "176",
+        "Publisher": "Random House"
+    },
+    "33": {
+        "Title": "Mein Kampf",
+        "Author": "Hitler, Adolf",
+        "Genre": "nonfiction",
+        "Height": "212",
+        "Publisher": "Rupa"
+    },
+    "34": {
+        "Title": "Tao of Physics, The",
+        "Author": "Capra, Fritjof",
+        "Genre": "science",
+        "Height": "179",
+        "Publisher": "Penguin"
+    },
+    "35": {
+        "Title": "Surely You're Joking Mr Feynman",
+        "Author": "Feynman, Richard",
+        "Genre": "science",
+        "Height": "198",
+        "Publisher": "Random House"
+    },
+    "36": {
+        "Title": "Farewell to Arms, A",
+        "Author": "Hemingway, Ernest",
+        "Genre": "fiction",
+        "Height": "179",
+        "Publisher": "Rupa"
+    },
+    "37": {
+        "Title": "Veteran, The",
+        "Author": "Forsyth, Frederick",
+        "Genre": "fiction",
+        "Height": "177",
+        "Publisher": "Transworld"
+    },
+    "38": {
+        "Title": "False Impressions",
+        "Author": "Archer, Jeffery",
+        "Genre": "fiction",
+        "Height": "177",
+        "Publisher": "Pan"
+    },
+    "39": {
+        "Title": "Last Lecture, The",
+        "Author": "Pausch, Randy",
+        "Genre": "nonfiction",
+        "Height": "197",
+        "Publisher": "Hyperion"
+    },
+    "40": {
+        "Title": "Return of the Primitive",
+        "Author": "Rand, Ayn",
+        "Genre": "philosophy",
+        "Height": "202",
+        "Publisher": "Penguin"
+    },
+    "41": {
+        "Title": "Jurassic Park",
+        "Author": "Crichton, Michael",
+        "Genre": "fiction",
+        "Height": "174",
+        "Publisher": "Random House"
+    },
+    "42": {
+        "Title": "Russian Journal, A",
+        "Author": "Steinbeck, John",
+        "Genre": "nonfiction",
+        "Height": "196",
+        "Publisher": "Penguin"
+    },
+    "43": {
+        "Title": "Tales of Mystery and Imagination",
+        "Author": "Poe, Edgar Allen",
+        "Genre": "fiction",
+        "Height": "172",
+        "Publisher": "HarperCollins"
+    },
+    "44": {
+        "Title": "Freakonomics",
+        "Author": "Dubner, Stephen",
+        "Genre": "economics",
+        "Height": "197",
+        "Publisher": "Penguin"
+    },
+    "45": {
+        "Title": "Hidden Connections, The",
+        "Author": "Capra, Fritjof",
+        "Genre": "science",
+        "Height": "197",
+        "Publisher": "HarperCollins"
+    },
+    "46": {
+        "Title": "Story of Philosophy, The",
+        "Author": "Durant, Will",
+        "Genre": "philosophy",
+        "Height": "170",
+        "Publisher": "Pocket"
+    },
+    "47": {
+        "Title": "Asami Asami",
+        "Author": "Deshpande, P L",
+        "Genre": "fiction",
+        "Height": "205",
+        "Publisher": "Mauj"
+    },
+    "48": {
+        "Title": "Journal of a Novel",
+        "Author": "Steinbeck, John",
+        "Genre": "fiction",
+        "Height": "196",
+        "Publisher": "Penguin"
+    },
+    "49": {
+        "Title": "Once There Was a War",
+        "Author": "Steinbeck, John",
+        "Genre": "nonfiction",
+        "Height": "196",
+        "Publisher": "Penguin"
+    },
+    "50": {
+        "Title": "Moon is Down, The",
+        "Author": "Steinbeck, John",
+        "Genre": "fiction",
+        "Height": "196",
+        "Publisher": "Penguin"
+    },
+    "51": {
+        "Title": "Brethren, The",
+        "Author": "Grisham, John",
+        "Genre": "fiction",
+        "Height": "174",
+        "Publisher": "Random House"
+    },
+    "52": {
+        "Title": "In a Free State",
+        "Author": "Naipaul, V. S.",
+        "Genre": "fiction",
+        "Height": "196",
+        "Publisher": "Rupa"
+    },
+    "53": {
+        "Title": "Catch 22",
+        "Author": "Heller, Joseph",
+        "Genre": "fiction",
+        "Height": "178",
+        "Publisher": "Random House"
+    },
+    "54": {
+        "Title": "Complete Mastermind, The",
+        "Author": "BBC",
+        "Genre": "nonfiction",
+        "Height": "178",
+        "Publisher": "BBC"
+    },
+    "55": {
+        "Title": "Dylan on Dylan",
+        "Author": "Dylan, Bob",
+        "Genre": "nonfiction",
+        "Height": "197",
+        "Publisher": "Random House"
+    },
+    "56": {
+        "Title": "Soft Computing & Intelligent Systems",
+        "Author": "Gupta, Madan",
+        "Genre": "data_science",
+        "Height": "242",
+        "Publisher": "Elsevier"
+    },
+    "57": {
+        "Title": "Textbook of Economic Theory",
+        "Author": "Stonier, Alfred",
+        "Genre": "economics",
+        "Height": "242",
+        "Publisher": "Pearson"
+    },
+    "58": {
+        "Title": "Econometric Analysis",
+        "Author": "Greene, W. H.",
+        "Genre": "economics",
+        "Height": "242",
+        "Publisher": "Pearson"
+    },
+    "59": {
+        "Title": "Learning OpenCV",
+        "Author": "Bradsky, Gary",
+        "Genre": "data_science",
+        "Height": "232",
+        "Publisher": "O'Reilly"
+    },
+    "60": {
+        "Title": "Data Structures Using C & C++",
+        "Author": "Tanenbaum, Andrew",
+        "Genre": "computer_science",
+        "Height": "235",
+        "Publisher": "Prentice Hall"
+    },
+    "61": {
+        "Title": "Computer Vision, A Modern Approach",
+        "Author": "Forsyth, David",
+        "Genre": "data_science",
+        "Height": "255",
+        "Publisher": "Pearson"
+    },
+    "62": {
+        "Title": "Principles of Communication Systems",
+        "Author": "Taub, Schilling",
+        "Genre": "computer_science",
+        "Height": "240",
+        "Publisher": "TMH"
+    },
+    "63": {
+        "Title": "Let Us C",
+        "Author": "Kanetkar, Yashwant",
+        "Genre": "computer_science",
+        "Height": "213",
+        "Publisher": "Prentice Hall"
+    },
+    "64": {
+        "Title": "Amulet of Samarkand, The",
+        "Author": "Stroud, Jonathan",
+        "Genre": "fiction",
+        "Height": "179",
+        "Publisher": "Random House"
+    },
+    "65": {
+        "Title": "Crime and Punishment",
+        "Author": "Dostoevsky, Fyodor",
+        "Genre": "fiction",
+        "Height": "180",
+        "Publisher": "Penguin"
+    },
+    "66": {
+        "Title": "Angels & Demons",
+        "Author": "Brown, Dan",
+        "Genre": "fiction",
+        "Height": "178",
+        "Publisher": "Random House"
+    },
+    "67": {
+        "Title": "Argumentative Indian, The",
+        "Author": "Sen, Amartya",
+        "Genre": "nonfiction",
+        "Height": "209",
+        "Publisher": "Picador"
+    },
+    "68": {
+        "Title": "Sea of Poppies",
+        "Author": "Ghosh, Amitav",
+        "Genre": "fiction",
+        "Height": "197",
+        "Publisher": "Penguin"
+    },
+    "69": {
+        "Title": "Idea of Justice, The",
+        "Author": "Sen, Amartya",
+        "Genre": "nonfiction",
+        "Height": "212",
+        "Publisher": "Penguin"
+    },
+    "70": {
+        "Title": "Raisin in the Sun, A",
+        "Author": "Hansberry, Lorraine",
+        "Genre": "fiction",
+        "Height": "175",
+        "Publisher": "Penguin"
+    },
+    "71": {
+        "Title": "All the President's Men",
+        "Author": "Woodward, Bob",
+        "Genre": "history",
+        "Height": "177",
+        "Publisher": "Random House"
+    },
+    "72": {
+        "Title": "Prisoner of Birth, A",
+        "Author": "Archer, Jeffery",
+        "Genre": "fiction",
+        "Height": "176",
+        "Publisher": "Pan"
+    },
+    "73": {
+        "Title": "Scoop!",
+        "Author": "Nayar, Kuldip",
+        "Genre": "history",
+        "Height": "216",
+        "Publisher": "HarperCollins"
+    },
+    "74": {
+        "Title": "Ahe Manohar Tari",
+        "Author": "Deshpande, Sunita",
+        "Genre": "nonfiction",
+        "Height": "213",
+        "Publisher": "Mauj"
+    },
+    "75": {
+        "Title": "Last Mughal, The",
+        "Author": "Dalrymple, William",
+        "Genre": "history",
+        "Height": "199",
+        "Publisher": "Penguin"
+    },
+    "76": {
+        "Title": "Social Choice & Welfare, Vol 39 No. 1",
+        "Author": "Various",
+        "Genre": "economics",
+        "Height": "235",
+        "Publisher": "Springer"
+    },
+    "77": {
+        "Title": "Radiowaril Bhashane & Shrutika",
+        "Author": "Deshpande, P L",
+        "Genre": "nonfiction",
+        "Height": "213",
+        "Publisher": "Mauj"
+    },
+    "78": {
+        "Title": "Gun Gayin Awadi",
+        "Author": "Deshpande, P L",
+        "Genre": "nonfiction",
+        "Height": "212",
+        "Publisher": "Mauj"
+    },
+    "79": {
+        "Title": "Aghal Paghal",
+        "Author": "Deshpande, P L",
+        "Genre": "nonfiction",
+        "Height": "212",
+        "Publisher": "Mauj"
+    },
+    "80": {
+        "Title": "Maqta-e-Ghalib",
+        "Author": "Garg, Sanjay",
+        "Genre": "fiction",
+        "Height": "221",
+        "Publisher": "Mauj"
+    },
+    "81": {
+        "Title": "Beyond Degrees",
+        "Author": "",
+        "Genre": "nonfiction",
+        "Height": "222",
+        "Publisher": "HarperCollins"
+    },
+    "82": {
+        "Title": "Manasa",
+        "Author": "Kale, V P",
+        "Genre": "nonfiction",
+        "Height": "213",
+        "Publisher": "Mauj"
+    },
+    "83": {
+        "Title": "India from Midnight to Milennium",
+        "Author": "Tharoor, Shashi",
+        "Genre": "history",
+        "Height": "198",
+        "Publisher": "Penguin"
+    },
+    "84": {
+        "Title": "World's Greatest Trials, The",
+        "Author": "",
+        "Genre": "history",
+        "Height": "210",
+        "Publisher": ""
+    },
+    "85": {
+        "Title": "Great Indian Novel, The",
+        "Author": "Tharoor, Shashi",
+        "Genre": "fiction",
+        "Height": "198",
+        "Publisher": "Penguin"
+    },
+    "86": {
+        "Title": "O Jerusalem!",
+        "Author": "Lapierre, Dominique",
+        "Genre": "history",
+        "Height": "217",
+        "Publisher": "vikas"
+    },
+    "87": {
+        "Title": "City of Joy, The",
+        "Author": "Lapierre, Dominique",
+        "Genre": "fiction",
+        "Height": "177",
+        "Publisher": "vikas"
+    },
+    "88": {
+        "Title": "Freedom at Midnight",
+        "Author": "Lapierre, Dominique",
+        "Genre": "history",
+        "Height": "167",
+        "Publisher": "vikas"
+    },
+    "89": {
+        "Title": "Winter of Our Discontent, The",
+        "Author": "Steinbeck, John",
+        "Genre": "fiction",
+        "Height": "196",
+        "Publisher": "Penguin"
+    },
+    "90": {
+        "Title": "On Education",
+        "Author": "Russell, Bertrand",
+        "Genre": "philosophy",
+        "Height": "203",
+        "Publisher": "Routledge"
+    },
+    "91": {
+        "Title": "Free Will",
+        "Author": "Harris, Sam",
+        "Genre": "philosophy",
+        "Height": "203",
+        "Publisher": "FreePress"
+    },
+    "92": {
+        "Title": "Bookless in Baghdad",
+        "Author": "Tharoor, Shashi",
+        "Genre": "nonfiction",
+        "Height": "206",
+        "Publisher": "Penguin"
+    },
+    "93": {
+        "Title": "Case of the Lame Canary, The",
+        "Author": "Gardner, Earle Stanley",
+        "Genre": "fiction",
+        "Height": "179",
+        "Publisher": ""
+    },
+    "94": {
+        "Title": "Theory of Everything, The",
+        "Author": "Hawking, Stephen",
+        "Genre": "science",
+        "Height": "217",
+        "Publisher": "Jaico"
+    },
+    "95": {
+        "Title": "New Markets & Other Essays",
+        "Author": "Drucker, Peter",
+        "Genre": "economics",
+        "Height": "176",
+        "Publisher": "Penguin"
+    },
+    "96": {
+        "Title": "Electric Universe",
+        "Author": "Bodanis, David",
+        "Genre": "science",
+        "Height": "201",
+        "Publisher": "Penguin"
+    },
+    "97": {
+        "Title": "Hunchback of Notre Dame, The",
+        "Author": "Hugo, Victor",
+        "Genre": "fiction",
+        "Height": "175",
+        "Publisher": "Random House"
+    },
+    "98": {
+        "Title": "Burning Bright",
+        "Author": "Steinbeck, John",
+        "Genre": "fiction",
+        "Height": "175",
+        "Publisher": "Penguin"
+    },
+    "99": {
+        "Title": "Age of Discontuinity, The",
+        "Author": "Drucker, Peter",
+        "Genre": "economics",
+        "Height": "178",
+        "Publisher": "Random House"
+    },
+    "100": {
+        "Title": "Doctor in the Nude",
+        "Author": "Gordon, Richard",
+        "Genre": "fiction",
+        "Height": "179",
+        "Publisher": "Penguin"
+    },
+    "101": {
+        "Title": "Down and Out in Paris & London",
+        "Author": "Orwell, George",
+        "Genre": "nonfiction",
+        "Height": "179",
+        "Publisher": "Penguin"
+    },
+    "102": {
+        "Title": "Identity & Violence",
+        "Author": "Sen, Amartya",
+        "Genre": "philosophy",
+        "Height": "219",
+        "Publisher": "Penguin"
+    },
+    "103": {
+        "Title": "Beyond the Three Seas",
+        "Author": "Dalrymple, William",
+        "Genre": "history",
+        "Height": "197",
+        "Publisher": "Random House"
+    },
+    "104": {
+        "Title": "World's Greatest Short Stories, The",
+        "Author": "",
+        "Genre": "fiction",
+        "Height": "217",
+        "Publisher": "Jaico"
+    },
+    "105": {
+        "Title": "Talking Straight",
+        "Author": "Iacoca, Lee",
+        "Genre": "nonfiction",
+        "Height": "175",
+        "Publisher": ""
+    },
+    "106": {
+        "Title": "Maugham's Collected Short Stories, Vol 3",
+        "Author": "Maugham, William S",
+        "Genre": "fiction",
+        "Height": "171",
+        "Publisher": "Vintage"
+    },
+    "107": {
+        "Title": "Phantom of Manhattan, The",
+        "Author": "Forsyth, Frederick",
+        "Genre": "fiction",
+        "Height": "180",
+        "Publisher": ""
+    },
+    "108": {
+        "Title": "Ashenden of The British Agent",
+        "Author": "Maugham, William S",
+        "Genre": "fiction",
+        "Height": "160",
+        "Publisher": "Vintage"
+    },
+    "109": {
+        "Title": "Zen & The Art of Motorcycle Maintenance",
+        "Author": "Pirsig, Robert",
+        "Genre": "philosophy",
+        "Height": "172",
+        "Publisher": "Vintage"
+    },
+    "110": {
+        "Title": "Great War for Civilization, The",
+        "Author": "Fisk, Robert",
+        "Genre": "history",
+        "Height": "197",
+        "Publisher": "HarperCollins"
+    },
+    "111": {
+        "Title": "We the Living",
+        "Author": "Rand, Ayn",
+        "Genre": "fiction",
+        "Height": "178",
+        "Publisher": "Penguin"
+    },
+    "112": {
+        "Title": "Artist and the Mathematician, The",
+        "Author": "Aczel, Amir",
+        "Genre": "science",
+        "Height": "186",
+        "Publisher": "HighStakes"
+    },
+    "113": {
+        "Title": "History of Western Philosophy",
+        "Author": "Russell, Bertrand",
+        "Genre": "philosophy",
+        "Height": "213",
+        "Publisher": "Routledge"
+    },
+    "114": {
+        "Title": "Selected Short Stories",
+        "Author": "",
+        "Genre": "fiction",
+        "Height": "215",
+        "Publisher": "Jaico"
+    },
+    "115": {
+        "Title": "Rationality & Freedom",
+        "Author": "Sen, Amartya",
+        "Genre": "economics",
+        "Height": "213",
+        "Publisher": "Springer"
+    },
+    "116": {
+        "Title": "Clash of Civilizations and Remaking of the World Order",
+        "Author": "Huntington, Samuel",
+        "Genre": "history",
+        "Height": "228",
+        "Publisher": "Simon&Schuster"
+    },
+    "117": {
+        "Title": "Uncommon Wisdom",
+        "Author": "Capra, Fritjof",
+        "Genre": "nonfiction",
+        "Height": "197",
+        "Publisher": "Fontana"
+    },
+    "118": {
+        "Title": "One",
+        "Author": "Bach, Richard",
+        "Genre": "nonfiction",
+        "Height": "172",
+        "Publisher": "Dell"
+    },
+    "119": {
+        "Title": "Karl Marx Biography",
+        "Author": "",
+        "Genre": "nonfiction",
+        "Height": "162",
+        "Publisher": ""
+    },
+    "120": {
+        "Title": "To Sir With Love",
+        "Author": "Braithwaite",
+        "Genre": "fiction",
+        "Height": "197",
+        "Publisher": "Penguin"
+    },
+    "121": {
+        "Title": "Half A Life",
+        "Author": "Naipaul, V S",
+        "Genre": "fiction",
+        "Height": "196",
+        "Publisher": ""
+    },
+    "122": {
+        "Title": "Discovery of India, The",
+        "Author": "Nehru, Jawaharlal",
+        "Genre": "history",
+        "Height": "230",
+        "Publisher": ""
+    },
+    "123": {
+        "Title": "Apulki",
+        "Author": "Deshpande, P L",
+        "Genre": "nonfiction",
+        "Height": "211",
+        "Publisher": ""
+    },
+    "124": {
+        "Title": "Unpopular Essays",
+        "Author": "Russell, Bertrand",
+        "Genre": "philosophy",
+        "Height": "198",
+        "Publisher": ""
+    },
+    "125": {
+        "Title": "Deceiver, The",
+        "Author": "Forsyth, Frederick",
+        "Genre": "fiction",
+        "Height": "178",
+        "Publisher": ""
+    },
+    "126": {
+        "Title": "Veil: Secret Wars of the CIA",
+        "Author": "Woodward, Bob",
+        "Genre": "history",
+        "Height": "171",
+        "Publisher": ""
+    },
+    "127": {
+        "Title": "Char Shabda",
+        "Author": "Deshpande, P L",
+        "Genre": "nonfiction",
+        "Height": "214",
+        "Publisher": ""
+    },
+    "128": {
+        "Title": "Rosy is My Relative",
+        "Author": "Durrell, Gerald",
+        "Genre": "fiction",
+        "Height": "176",
+        "Publisher": ""
+    },
+    "129": {
+        "Title": "Moon and Sixpence, The",
+        "Author": "Maugham, William S",
+        "Genre": "fiction",
+        "Height": "180",
+        "Publisher": ""
+    },
+    "130": {
+        "Title": "Political Philosophers",
+        "Author": "",
+        "Genre": "philosophy",
+        "Height": "162",
+        "Publisher": ""
+    },
+    "131": {
+        "Title": "Short History of the World, A",
+        "Author": "Wells, H G",
+        "Genre": "history",
+        "Height": "197",
+        "Publisher": ""
+    },
+    "132": {
+        "Title": "Trembling of a Leaf, The",
+        "Author": "Maugham, William S",
+        "Genre": "fiction",
+        "Height": "205",
+        "Publisher": ""
+    },
+    "133": {
+        "Title": "Doctor on the Brain",
+        "Author": "Gordon, Richard",
+        "Genre": "fiction",
+        "Height": "204",
+        "Publisher": ""
+    },
+    "134": {
+        "Title": "Simpsons & Their Mathematical Secrets",
+        "Author": "Singh, Simon",
+        "Genre": "science",
+        "Height": "233",
+        "Publisher": ""
+    },
+    "135": {
+        "Title": "Pattern Classification",
+        "Author": "Duda, Hart",
+        "Genre": "data_science",
+        "Height": "241",
+        "Publisher": ""
+    },
+    "136": {
+        "Title": "From Beirut to Jerusalem",
+        "Author": "Friedman, Thomas",
+        "Genre": "history",
+        "Height": "202",
+        "Publisher": ""
+    },
+    "137": {
+        "Title": "Code Book, The",
+        "Author": "Singh, Simon",
+        "Genre": "science",
+        "Height": "197",
+        "Publisher": ""
+    },
+    "138": {
+        "Title": "Age of the Warrior, The",
+        "Author": "Fisk, Robert",
+        "Genre": "history",
+        "Height": "197",
+        "Publisher": ""
+    },
+    "139": {
+        "Title": "Final Crisis",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "257",
+        "Publisher": ""
+    },
+    "140": {
+        "Title": "Killing Joke, The",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "283",
+        "Publisher": ""
+    },
+    "141": {
+        "Title": "Flashpoint",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "265",
+        "Publisher": ""
+    },
+    "142": {
+        "Title": "Batman Earth One",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "265",
+        "Publisher": ""
+    },
+    "143": {
+        "Title": "Crisis on Infinite Earths",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "258",
+        "Publisher": ""
+    },
+    "144": {
+        "Title": "Numbers Behind Numb3rs, The",
+        "Author": "Devlin, Keith",
+        "Genre": "science",
+        "Height": "202",
+        "Publisher": ""
+    },
+    "145": {
+        "Title": "Superman Earth One - 1",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "259",
+        "Publisher": ""
+    },
+    "146": {
+        "Title": "Superman Earth One - 2",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "258",
+        "Publisher": ""
+    },
+    "147": {
+        "Title": "Justice League: Throne of Atlantis",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "258",
+        "Publisher": ""
+    },
+    "148": {
+        "Title": "Justice League: The Villain's Journey",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "258",
+        "Publisher": ""
+    },
+    "149": {
+        "Title": "Death of Superman, The",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "258",
+        "Publisher": ""
+    },
+    "150": {
+        "Title": "History of the DC Universe",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "258",
+        "Publisher": ""
+    },
+    "151": {
+        "Title": "Batman: The Long Halloween",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "258",
+        "Publisher": ""
+    },
+    "152": {
+        "Title": "Life in Letters, A",
+        "Author": "Steinbeck, John",
+        "Genre": "nonfiction",
+        "Height": "196",
+        "Publisher": ""
+    },
+    "153": {
+        "Title": "Information, The",
+        "Author": "Gleick, James",
+        "Genre": "science",
+        "Height": "233",
+        "Publisher": ""
+    },
+    "154": {
+        "Title": "Journal of Economics, vol 106 No 3",
+        "Author": "",
+        "Genre": "economics",
+        "Height": "235",
+        "Publisher": ""
+    },
+    "155": {
+        "Title": "Elements of Information Theory",
+        "Author": "Thomas, Joy",
+        "Genre": "data_science",
+        "Height": "229",
+        "Publisher": ""
+    },
+    "156": {
+        "Title": "Power Electronics - Rashid",
+        "Author": "Rashid, Muhammad",
+        "Genre": "computer_science",
+        "Height": "235",
+        "Publisher": ""
+    },
+    "157": {
+        "Title": "Power Electronics - Mohan",
+        "Author": "Mohan, Ned",
+        "Genre": "computer_science",
+        "Height": "237",
+        "Publisher": ""
+    },
+    "158": {
+        "Title": "Neural Networks",
+        "Author": "Haykin, Simon",
+        "Genre": "data_science",
+        "Height": "240",
+        "Publisher": ""
+    },
+    "159": {
+        "Title": "Grapes of Wrath, The",
+        "Author": "Steinbeck, John",
+        "Genre": "fiction",
+        "Height": "196",
+        "Publisher": ""
+    },
+    "160": {
+        "Title": "Vyakti ani Valli",
+        "Author": "Deshpande, P L",
+        "Genre": "nonfiction",
+        "Height": "211",
+        "Publisher": ""
+    },
+    "161": {
+        "Title": "Statistical Learning Theory",
+        "Author": "Vapnik, Vladimir",
+        "Genre": "data_science",
+        "Height": "228",
+        "Publisher": ""
+    },
+    "162": {
+        "Title": "Empire of the Mughal - The Tainted Throne",
+        "Author": "Rutherford, Alex",
+        "Genre": "history",
+        "Height": "180",
+        "Publisher": ""
+    },
+    "163": {
+        "Title": "Empire of the Mughal - Brothers at War",
+        "Author": "Rutherford, Alex",
+        "Genre": "history",
+        "Height": "180",
+        "Publisher": ""
+    },
+    "164": {
+        "Title": "Empire of the Mughal - Ruler of the World",
+        "Author": "Rutherford, Alex",
+        "Genre": "history",
+        "Height": "180",
+        "Publisher": ""
+    },
+    "165": {
+        "Title": "Empire of the Mughal - The Serpent's Tooth",
+        "Author": "Rutherford, Alex",
+        "Genre": "history",
+        "Height": "180",
+        "Publisher": ""
+    },
+    "166": {
+        "Title": "Empire of the Mughal - Raiders from the North",
+        "Author": "Rutherford, Alex",
+        "Genre": "history",
+        "Height": "180",
+        "Publisher": ""
+    },
+    "167": {
+        "Title": "Mossad",
+        "Author": "Baz-Zohar, Michael",
+        "Genre": "history",
+        "Height": "236",
+        "Publisher": ""
+    },
+    "168": {
+        "Title": "Jim Corbett Omnibus",
+        "Author": "Corbett, Jim",
+        "Genre": "nonfiction",
+        "Height": "223",
+        "Publisher": ""
+    },
+    "169": {
+        "Title": "20000 Leagues Under the Sea",
+        "Author": "Verne, Jules",
+        "Genre": "fiction",
+        "Height": "190",
+        "Publisher": ""
+    },
+    "170": {
+        "Title": "Batatyachi Chal",
+        "Author": "Deshpande P L",
+        "Genre": "fiction",
+        "Height": "200",
+        "Publisher": ""
+    },
+    "171": {
+        "Title": "Hafasavnuk",
+        "Author": "Deshpande P L",
+        "Genre": "fiction",
+        "Height": "211",
+        "Publisher": ""
+    },
+    "172": {
+        "Title": "Urlasurla",
+        "Author": "Deshpande P L",
+        "Genre": "fiction",
+        "Height": "211",
+        "Publisher": ""
+    },
+    "173": {
+        "Title": "Pointers in C",
+        "Author": "Kanetkar, Yashwant",
+        "Genre": "computer_science",
+        "Height": "213",
+        "Publisher": ""
+    },
+    "174": {
+        "Title": "Cathedral and the Bazaar, The",
+        "Author": "Raymond, Eric",
+        "Genre": "computer_science",
+        "Height": "217",
+        "Publisher": ""
+    },
+    "175": {
+        "Title": "Design with OpAmps",
+        "Author": "Franco, Sergio",
+        "Genre": "computer_science",
+        "Height": "240",
+        "Publisher": ""
+    },
+    "176": {
+        "Title": "Think Complexity",
+        "Author": "Downey, Allen",
+        "Genre": "data_science",
+        "Height": "230",
+        "Publisher": ""
+    },
+    "177": {
+        "Title": "Devil's Advocate, The",
+        "Author": "West, Morris",
+        "Genre": "fiction",
+        "Height": "178",
+        "Publisher": ""
+    },
+    "178": {
+        "Title": "Ayn Rand Answers",
+        "Author": "Rand, Ayn",
+        "Genre": "philosophy",
+        "Height": "203",
+        "Publisher": ""
+    },
+    "179": {
+        "Title": "Philosophy: Who Needs It",
+        "Author": "Rand, Ayn",
+        "Genre": "philosophy",
+        "Height": "171",
+        "Publisher": ""
+    },
+    "180": {
+        "Title": "World's Great Thinkers, The",
+        "Author": "",
+        "Genre": "philosophy",
+        "Height": "189",
+        "Publisher": ""
+    },
+    "181": {
+        "Title": "Data Analysis with Open Source Tools",
+        "Author": "Janert, Phillip",
+        "Genre": "data_science",
+        "Height": "230",
+        "Publisher": ""
+    },
+    "182": {
+        "Title": "Broca's Brain",
+        "Author": "Sagan, Carl",
+        "Genre": "science",
+        "Height": "174",
+        "Publisher": ""
+    },
+    "183": {
+        "Title": "Men of Mathematics",
+        "Author": "Bell, E T",
+        "Genre": "mathematics",
+        "Height": "217",
+        "Publisher": ""
+    },
+    "184": {
+        "Title": "Oxford book of Modern Science Writing",
+        "Author": "Dawkins, Richard",
+        "Genre": "science",
+        "Height": "240",
+        "Publisher": ""
+    },
+    "185": {
+        "Title": "Justice, Judiciary and Democracy",
+        "Author": "Ranjan, Sudhanshu",
+        "Genre": "philosophy",
+        "Height": "224",
+        "Publisher": ""
+    },
+    "186": {
+        "Title": "Arthashastra, The",
+        "Author": "Kautiyla",
+        "Genre": "philosophy",
+        "Height": "214",
+        "Publisher": ""
+    },
+    "187": {
+        "Title": "We the People",
+        "Author": "Palkhivala",
+        "Genre": "philosophy",
+        "Height": "216",
+        "Publisher": ""
+    },
+    "188": {
+        "Title": "We the Nation",
+        "Author": "Palkhivala",
+        "Genre": "philosophy",
+        "Height": "216",
+        "Publisher": ""
+    },
+    "189": {
+        "Title": "Courtroom Genius, The",
+        "Author": "Sorabjee",
+        "Genre": "nonfiction",
+        "Height": "217",
+        "Publisher": ""
+    },
+    "190": {
+        "Title": "Dongri to Dubai",
+        "Author": "Zaidi, Hussain",
+        "Genre": "nonfiction",
+        "Height": "216",
+        "Publisher": ""
+    },
+    "191": {
+        "Title": "History of England, Foundation",
+        "Author": "Ackroyd, Peter",
+        "Genre": "history",
+        "Height": "197",
+        "Publisher": ""
+    },
+    "192": {
+        "Title": "City of Djinns",
+        "Author": "Dalrymple, William",
+        "Genre": "history",
+        "Height": "198",
+        "Publisher": ""
+    },
+    "193": {
+        "Title": "India's Legal System",
+        "Author": "Nariman",
+        "Genre": "nonfiction",
+        "Height": "177",
+        "Publisher": ""
+    },
+    "194": {
+        "Title": "More Tears to Cry",
+        "Author": "Sassoon, Jean",
+        "Genre": "fiction",
+        "Height": "235",
+        "Publisher": ""
+    },
+    "195": {
+        "Title": "Ropemaker, The",
+        "Author": "Dickinson, Peter",
+        "Genre": "fiction",
+        "Height": "196",
+        "Publisher": ""
+    },
+    "196": {
+        "Title": "Angels & Demons",
+        "Author": "Brown, Dan",
+        "Genre": "fiction",
+        "Height": "170",
+        "Publisher": ""
+    },
+    "197": {
+        "Title": "Judge, The",
+        "Author": "",
+        "Genre": "fiction",
+        "Height": "170",
+        "Publisher": ""
+    },
+    "198": {
+        "Title": "Attorney, The",
+        "Author": "",
+        "Genre": "fiction",
+        "Height": "170",
+        "Publisher": ""
+    },
+    "199": {
+        "Title": "Prince, The",
+        "Author": "Machiavelli",
+        "Genre": "philosophy",
+        "Height": "173",
+        "Publisher": ""
+    },
+    "200": {
+        "Title": "Eyeless in Gaza",
+        "Author": "Huxley, Aldous",
+        "Genre": "fiction",
+        "Height": "180",
+        "Publisher": ""
+    },
+    "201": {
+        "Title": "Tales of Beedle the Bard",
+        "Author": "Rowling, J K",
+        "Genre": "fiction",
+        "Height": "184",
+        "Publisher": ""
+    },
+    "202": {
+        "Title": "Girl with the Dragon Tattoo",
+        "Author": "Larsson, Steig",
+        "Genre": "fiction",
+        "Height": "179",
+        "Publisher": ""
+    },
+    "203": {
+        "Title": "Girl who kicked the Hornet's Nest",
+        "Author": "Larsson, Steig",
+        "Genre": "fiction",
+        "Height": "179",
+        "Publisher": ""
+    },
+    "204": {
+        "Title": "Girl who played with Fire",
+        "Author": "Larsson, Steig",
+        "Genre": "fiction",
+        "Height": "179",
+        "Publisher": ""
+    },
+    "205": {
+        "Title": "Batman Handbook",
+        "Author": "",
+        "Genre": "comic",
+        "Height": "270",
+        "Publisher": ""
+    },
+    "206": {
+        "Title": "Murphy's Law",
+        "Author": "",
+        "Genre": "nonfiction",
+        "Height": "178",
+        "Publisher": ""
+    },
+    "207": {
+        "Title": "Structure and Randomness",
+        "Author": "Tao, Terence",
+        "Genre": "mathematics",
+        "Height": "252",
+        "Publisher": ""
+    },
+    "208": {
+        "Title": "Image Processing with MATLAB",
+        "Author": "Eddins, Steve",
+        "Genre": "signal_processing",
+        "Height": "241",
+        "Publisher": ""
+    },
+    "209": {
+        "Title": "Animal Farm",
+        "Author": "Orwell, George",
+        "Genre": "fiction",
+        "Height": "180",
+        "Publisher": ""
+    },
+    "210": {
+        "Title": "Idiot, The",
+        "Author": "Dostoevsky, Fyodor",
+        "Genre": "fiction",
+        "Height": "197",
+        "Publisher": ""
+    },
+    "211": {
+        "Title": "Christmas Carol, A",
+        "Author": "Dickens, Charles",
+        "Genre": "fiction",
+        "Height": "196",
+        "Publisher": ""
+    }
+}

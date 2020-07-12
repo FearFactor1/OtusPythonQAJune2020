@@ -4,7 +4,7 @@ import dicttoxml
 import xmltodict
 import xml.etree.ElementTree as ET
 
-tree = ET.parse('../data/data.xml')
+tree = ET.parse('../data/datadz.xml')
 root = tree.getroot()
 # #
 for child in root:
@@ -13,7 +13,7 @@ for child in root:
          print(_child.tag, _child.text)
 
 # -------------------------
-# with open('../data/data.xml', 'r') as file:
+# with open('../data/datadz.xml', 'r') as file:
 #     f = file.read()
 #     new_dct = xmltodict.parse(f"""{f}""", )
 #     print(dict(new_dct))

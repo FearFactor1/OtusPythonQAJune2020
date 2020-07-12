@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/dz3/1/Dictionary/datadz.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/dz3/1/Dictionary/test_5_for_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/dz3/1/List/datadz.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/dz3/1/List/test_5_for_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/dz3/1/Set/datadz.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/dz3/1/Set/test_5_for_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/dz3/1/String/datadz.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/dz3/1/String/test_5_for_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/dz3/2/books.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/dz3/2/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/dz3/2/test_creat_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/dz3/2/users.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/README.md" afterDir="false" />
@@ -58,8 +53,10 @@
       <change beforePath="$PROJECT_DIR$/lesson3/Lesson3/ex_9_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_9_pandas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson3/Lesson3/output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/output.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson3/Lesson3/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/books-39204-271043.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/context_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/context_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/xml_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/xml_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/users.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,37 +105,68 @@
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\List" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_5_for_string.TestClassString.test_replace_string">
-    <configuration name="pytest for test_5_for_string.TestClassString.test_count_string" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_creat_example.test_creat_json">
+    <configuration name="5_json_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/dz3/1/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/python_qa_test_data/read" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5_for_string.TestClassString.test_count_string&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/python_qa_test_data/read/5_json_reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_5_for_string.TestClassString.test_join_string" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_4_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/dz3/1/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5_for_string.TestClassString.test_join_string&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_4_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/test-data/iterators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/test-data/iterators/generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="pytest for test_5_for_string.TestClassString.test_replace_string" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -157,45 +185,29 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_5_for_string.TestClassString.test_split_string" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_creat_example.test_creat_json" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/dz3/1/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/dz3/2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5_for_string.TestClassString.test_split_string&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_5_for_string.TestClassString.test_upper_string" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="OtusPythonQAJune2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/dz3/1/String" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5_for_string.TestClassString.test_upper_string&quot;" />
+      <option name="_new_target" value="&quot;test_creat_example.test_creat_json&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_creat_example.test_creat_json" />
+        <item itemvalue="Python.generator" />
+        <item itemvalue="Python.ex_4_json" />
+        <item itemvalue="Python.5_json_reader" />
         <item itemvalue="Python tests.pytest for test_5_for_string.TestClassString.test_replace_string" />
-        <item itemvalue="Python tests.pytest for test_5_for_string.TestClassString.test_join_string" />
-        <item itemvalue="Python tests.pytest for test_5_for_string.TestClassString.test_split_string" />
-        <item itemvalue="Python tests.pytest for test_5_for_string.TestClassString.test_upper_string" />
-        <item itemvalue="Python tests.pytest for test_5_for_string.TestClassString.test_count_string" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594385116035</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dz 1">
+      <created>1594463909981</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594463909981</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,7 +280,8 @@
     <MESSAGE value="проверка пуш" />
     <MESSAGE value="lesson 2" />
     <MESSAGE value="lesson 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 3" />
+    <MESSAGE value="dz 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1165" y="561" width="751" height="277" key="#Notifications" timestamp="1593459795732">
@@ -272,10 +292,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593461201122" />
-    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1594385115567">
+    <state x="1010" y="445" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594550538992">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594385115567" />
+    <state x="1010" y="445" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594550538992" />
+    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1594463909480">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594463909480" />
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1593459902468">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -296,50 +320,50 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="2538" height="345" key="GridCell.Tab.0.bottom" timestamp="1594463640947">
+    <state width="2538" height="486" key="GridCell.Tab.0.bottom" timestamp="1594550484198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="345" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594463640947" />
-    <state width="2538" height="345" key="GridCell.Tab.0.center" timestamp="1594463640947">
+    <state width="2538" height="486" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
+    <state width="2538" height="486" key="GridCell.Tab.0.center" timestamp="1594550484198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="345" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594463640947" />
-    <state width="2538" height="345" key="GridCell.Tab.0.left" timestamp="1594463640947">
+    <state width="2538" height="486" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
+    <state width="2538" height="486" key="GridCell.Tab.0.left" timestamp="1594550484198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="345" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594463640947" />
-    <state width="2538" height="345" key="GridCell.Tab.0.right" timestamp="1594463640947">
+    <state width="2538" height="486" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
+    <state width="2538" height="486" key="GridCell.Tab.0.right" timestamp="1594550484198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="345" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594463640947" />
-    <state width="2538" height="486" key="GridCell.Tab.1.bottom" timestamp="1594463244901">
+    <state width="2538" height="486" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
+    <state width="2538" height="486" key="GridCell.Tab.1.bottom" timestamp="1594550485203">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="486" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594463244901" />
-    <state width="2538" height="486" key="GridCell.Tab.1.center" timestamp="1594463244901">
+    <state width="2538" height="486" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594550485203" />
+    <state width="2538" height="486" key="GridCell.Tab.1.center" timestamp="1594550485203">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="486" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594463244901" />
-    <state width="2538" height="486" key="GridCell.Tab.1.left" timestamp="1594463244901">
+    <state width="2538" height="486" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594550485203" />
+    <state width="2538" height="486" key="GridCell.Tab.1.left" timestamp="1594550485203">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="486" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594463244901" />
-    <state width="2538" height="486" key="GridCell.Tab.1.right" timestamp="1594463244901">
+    <state width="2538" height="486" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594550485203" />
+    <state width="2538" height="486" key="GridCell.Tab.1.right" timestamp="1594550485203">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2538" height="486" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594463244901" />
+    <state width="2538" height="486" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594550485203" />
     <state x="1418" y="332" key="SettingsEditor" timestamp="1593461159985">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1593461159985" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594385124716">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594463917069">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594385124716" />
-    <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1594463226829">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594463917069" />
+    <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1594550434632">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1594463226829" />
+    <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1594550434632" />
     <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593459966165">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
