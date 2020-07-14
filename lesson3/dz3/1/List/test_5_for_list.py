@@ -1,8 +1,6 @@
 import pytest
 
 
-
-
 class TestClassList:
 
     # 1 тест
@@ -12,7 +10,9 @@ class TestClassList:
             for line in file.readlines():
                 sp = line.split("\n")
                 sp.append(info)
+                assert info in sp
                 print(sp, end='')
+
 
     # 2 тест
     @pytest.mark.parametrize("champions", ['три раза чемпион', 'два раза чемпион', 'один раз чемпион'])
@@ -21,6 +21,7 @@ class TestClassList:
             for line in file.readlines():
                 sp = line.split("\n")
                 sp.insert(-1, champions)
+                assert champions in sp
                 print(sp, end='')
 
 
@@ -30,6 +31,7 @@ class TestClassList:
             for line in file.readlines():
                 sp = line.split("\n")
                 sp.pop(0)
+                assert 'club1,milan,city,milan' not in sp
                 print(sp, end='')
 
 
@@ -39,6 +41,7 @@ class TestClassList:
             for line in file.readlines():
                 sp = line.split("\n")
                 club = sp.count('club1,milan,city,milan')
+                assert sp != 0
                 print(sp, end='')
                 print(club, end='')
 
@@ -49,5 +52,6 @@ class TestClassList:
             for line in file.readlines():
                 sp = line.split("\n")
                 sort = sp.clear()
+                assert sp == []
                 print(sp, end='')
                 print(sort, end='')

@@ -2,11 +2,6 @@ import json
 from csv import DictReader
 
 
-
-
-
-
-
 def test_creat_json():
     with open("../2/users.json", "r") as file:
         info = json.load(file)
@@ -35,8 +30,3 @@ def test_creat_json():
             f.write(k)
             f.write(j)
             print(k, j)
-
-
-
-
-
