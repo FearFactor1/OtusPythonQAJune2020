@@ -1,113 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="dz 1">
+    <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="dz 1 - исправление">
+      <change afterPath="$PROJECT_DIR$/lesson4/dz4/1/test_dogapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/dz4/2/test_openbrewerydb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/dz4/3/test_jsonplaceholder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/dz4/4/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/dz4/4/test_param_status_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/0_argparse/argparse_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/0_argparse/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/1_pytest_addoption/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/1_pytest_addoption/test_demo_param.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/2_requests/requests_basic_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/2_requests/requests_get_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/2_requests/requests_other_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/2_requests/requests_post_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/3_api_testing/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/3_api_testing/test_api_cerberus_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/3_api_testing/test_api_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/3_api_testing/test_api_schema_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/4_api_example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/4_api_example/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/4_api_example/tests/test_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/4_api_example/tests/test_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/addresses.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/addresses.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/adress_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/adress_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex1_open_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex1_open_files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex2_context_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex2_context_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_4.2_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_4.2_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_4.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_4_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_4_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_5.1_create_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_5.1_create_xml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_5_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_5_xml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_6_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_6_xml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_7_csv_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_7_csv_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_8_csv_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_8_csv_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_9_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/ex_9_pandas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/Dictionary/datadz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/Dictionary/datadz.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/Dictionary/test_5_for_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/Dictionary/test_5_for_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/List/datadz.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/List/datadz.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/List/test_5_for_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/List/test_5_for_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/Set/datadz.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/Set/datadz.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/Set/test_5_for_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/Set/test_5_for_set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/String/datadz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/String/datadz.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/String/test_5_for_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/String/test_5_for_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/2/books.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/2/books.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/2/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/2/example.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/2/test_creat_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/2/test_creat_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/2/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/2/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/example.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/files/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/files/example.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/files/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/files/example.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/files/users.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/files/users.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/files/users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/files/users.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/iterators/test_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/iterators/test_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/iterators/test_using_iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/iterators/test_using_iterator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/iterators/what_is_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/iterators/what_is_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/iterators/what_is_iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/iterators/what_is_iterator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/1_txt_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/1_txt_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/2_context_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/2_context_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/3_csv_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/3_csv_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/4_xml_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/4_xml_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/5_json_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/5_json_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/6_html_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/6_html_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/7_sqlite_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/read/7_sqlite_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/write/1_txt_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/write/1_txt_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/write/2_context_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/write/2_context_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/write/3_csv_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/write/3_csv_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/write/4_xml_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/write/4_xml_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/python_qa_test_data/write/5_json_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/python_qa_test_data/write/5_json_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.idea/test-data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/test-data.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/Activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/activate.csh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/activate.fish" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/chardetect" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/chardetect" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/easy_install" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/easy_install-3.8" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/easy_install-3.8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pip3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pip3.8" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pip3.8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/py.test" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/py.test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pytest" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/pytest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/pyvenv.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/data/1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/data/1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/data/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/data/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/data/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/data/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/data/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/data/data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/data/data.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/data/data.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/data/data.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/data/passengers.sql" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/data/passengers.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/iterators/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/iterators/example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/iterators/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/iterators/generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/iterators/my_iter.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/iterators/my_iter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/b_soup.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/b_soup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/context_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/context_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/csv_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/csv_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/dump.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/dump.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/html_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/html_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/json_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/json_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/read_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/read_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/read_yml.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/read_yml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/sqlite_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/sqlite_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/xml_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/xml_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/tests/test_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/tests/test_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/tests/url_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/tests/url_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/write/context_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/write/context_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/write/csv_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/write/csv_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/write/json_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/write/json_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/write/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/write/new.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/write/new_context.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/write/new_context.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/write/new_json.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/write/new_json.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/write/txt_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/write/txt_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/write/xml_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/write/xml_writer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,105 +85,106 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson4/dz4/4" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dimon\PycharmProjects\OtusPythonQAJune2020\lesson4\dz4\4" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\String" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\Dictionary" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\Set" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\List" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_5_for_list.TestClassList.test_count_list">
-    <configuration name="pytest for test_5_for_list.TestClassList.test_count_list" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_param_status_code.test_url_status">
+    <configuration name="pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/dz3/1/List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5_for_list.TestClassList.test_count_list&quot;" />
+      <option name="_new_target" value="&quot;test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_5_for_string.TestClassString.test_join_string" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_200_todos" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/dz3/1/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5_for_string.TestClassString.test_join_string&quot;" />
+      <option name="_new_target" value="&quot;test_jsonplaceholder.TestClassJsonplaceholder.test_200_todos&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_5_for_string.TestClassString.test_replace_string" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_5000_photos" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/dz3/1/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5_for_string.TestClassString.test_replace_string&quot;" />
+      <option name="_new_target" value="&quot;test_jsonplaceholder.TestClassJsonplaceholder.test_5000_photos&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_5_for_string.TestClassString.test_split_string" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_500_comments" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/dz3/1/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5_for_string.TestClassString.test_split_string&quot;" />
+      <option name="_new_target" value="&quot;test_jsonplaceholder.TestClassJsonplaceholder.test_500_comments&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_5_for_string.TestClassString.test_upper_string" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_param_status_code.test_url_status" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/dz3/1/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5_for_string.TestClassString.test_upper_string&quot;" />
+      <option name="_new_target" value="&quot;test_param_status_code.test_url_status&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_5_for_list.TestClassList.test_count_list" />
-        <item itemvalue="Python tests.pytest for test_5_for_string.TestClassString.test_replace_string" />
-        <item itemvalue="Python tests.pytest for test_5_for_string.TestClassString.test_join_string" />
-        <item itemvalue="Python tests.pytest for test_5_for_string.TestClassString.test_split_string" />
-        <item itemvalue="Python tests.pytest for test_5_for_string.TestClassString.test_upper_string" />
+        <item itemvalue="Python tests.pytest for test_param_status_code.test_url_status" />
+        <item itemvalue="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_500_comments" />
+        <item itemvalue="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts" />
+        <item itemvalue="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_200_todos" />
+        <item itemvalue="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_5000_photos" />
       </list>
     </recent_temporary>
   </component>
@@ -307,8 +248,27 @@
       <option name="project" value="LOCAL" />
       <updated>1594463909981</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="dz 1 - исправление">
+      <created>1594740548851</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1594740548851</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -317,7 +277,8 @@
     <MESSAGE value="lesson 2" />
     <MESSAGE value="lesson 3" />
     <MESSAGE value="dz 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz 1" />
+    <MESSAGE value="dz 1 - исправление" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz 1 - исправление" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1165" y="561" width="751" height="277" key="#Notifications" timestamp="1593459795732">
@@ -332,6 +293,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="445" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594550538992" />
+    <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts" timestamp="1595444472061">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
     <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1594463909480">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -357,59 +322,60 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="1578" height="218" key="GridCell.Tab.0.bottom" timestamp="1594740391944">
+    <state width="1578" height="271" key="GridCell.Tab.0.bottom" timestamp="1595448839025">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594740391944" />
+    <state width="1578" height="271" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595448839025" />
     <state width="2538" height="486" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
-    <state width="1578" height="218" key="GridCell.Tab.0.center" timestamp="1594740391944">
+    <state width="1578" height="271" key="GridCell.Tab.0.center" timestamp="1595448839025">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594740391944" />
+    <state width="1578" height="271" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595448839025" />
     <state width="2538" height="486" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
-    <state width="1578" height="218" key="GridCell.Tab.0.left" timestamp="1594740391944">
+    <state width="1578" height="271" key="GridCell.Tab.0.left" timestamp="1595448839025">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594740391944" />
+    <state width="1578" height="271" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595448839025" />
     <state width="2538" height="486" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
-    <state width="1578" height="218" key="GridCell.Tab.0.right" timestamp="1594740391944">
+    <state width="1578" height="271" key="GridCell.Tab.0.right" timestamp="1595448839025">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594740391944" />
+    <state width="1578" height="271" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595448839025" />
     <state width="2538" height="486" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
-    <state width="1578" height="270" key="GridCell.Tab.1.bottom" timestamp="1594740328825">
+    <state width="1578" height="271" key="GridCell.Tab.1.bottom" timestamp="1595448839026">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="270" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594740328825" />
+    <state width="1578" height="271" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595448839026" />
     <state width="2538" height="486" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594550485203" />
-    <state width="1578" height="270" key="GridCell.Tab.1.center" timestamp="1594740328825">
+    <state width="1578" height="271" key="GridCell.Tab.1.center" timestamp="1595448839026">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="270" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1594740328825" />
+    <state width="1578" height="271" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1595448839026" />
     <state width="2538" height="486" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594550485203" />
-    <state width="1578" height="270" key="GridCell.Tab.1.left" timestamp="1594740328825">
+    <state width="1578" height="271" key="GridCell.Tab.1.left" timestamp="1595448839025">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="270" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1594740328825" />
+    <state width="1578" height="271" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1595448839025" />
     <state width="2538" height="486" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594550485203" />
-    <state width="1578" height="270" key="GridCell.Tab.1.right" timestamp="1594740328825">
+    <state width="1578" height="271" key="GridCell.Tab.1.right" timestamp="1595448839026">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1594740328825" />
+    <state width="1578" height="271" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1595448839026" />
     <state width="2538" height="486" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594550485203" />
     <state x="602" y="122" key="SettingsEditor" timestamp="1594738724441">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1593461159985" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1594463917069">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594463917069" />
-    <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1594737730104">
+    <state x="545" y="265" key="Vcs.Push.Dialog.v2" timestamp="1594740564343">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="805" height="435" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1594737730104" />
+    <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1594740564343" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594463917069" />
+    <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1595181259910">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="805" height="435" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1595181259910" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1594550434632" />
     <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593459966165">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -423,10 +389,15 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="968" y="487" key="git4idea.merge.GitPullDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594241539313" />
-    <state x="1044" y="600" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1593460838320">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="653" y="369" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594740482331">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state x="653" y="369" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1594740482331" />
     <state x="1044" y="600" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593460838320" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1595440891495">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1595440891495" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
