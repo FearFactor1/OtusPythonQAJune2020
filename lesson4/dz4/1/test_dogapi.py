@@ -33,7 +33,6 @@ class TestClassBreeds:
         assert js["message"][message] == ["shepherd"]
         assert js["message"][message2] == ["border"]
         assert js["message"][message3] == []
-        print(js)
 
     # 2 тест
     @pytest.mark.parametrize("random", ["https://dog.ceo/api/breeds/image/random",
@@ -48,7 +47,6 @@ class TestClassBreeds:
             assert v.validate(js, schema)
         if random == "https://dog.ceo/api/breeds/image/random/3":
             assert str(js).count("https://images.dog.ceo") == 3
-        print(js)
 
     # 3 тест
     @pytest.mark.parametrize("images", ['https://images.dog.ceo/breeds/hound-afghan/n02088094_1003.jpg',
@@ -60,22 +58,18 @@ class TestClassBreeds:
         assert res.status_code == 200
         for k, v in js.items():
             assert images or 'success' in v
-        print(js)
-
 
     # 4 тест
-    @pytest.mark.parametrize("url", ["https://dog.ceo/api/breed/hound/list"])
-    def test_LIST_ALL_SUB_BREEDS(self, url):
-        res = requests.get(url)
+    def test_LIST_ALL_SUB_BREEDS(self):
+        res = requests.get("https://dog.ceo/api/breed/hound/list")
         js = res.json()
-        if url == "https://dog.ceo/api/breed/hound/list":
-            assert js["message"] == ["afghan",
-                                     "basset",
-                                     "blood",
-                                     "english",
-                                     "ibizan",
-                                     "plott",
-                                     "walker"]
+        assert js["message"] == ["afghan",
+                                    "basset",
+                                    "blood",
+                                    "english",
+                                    "ibizan",
+                                    "plott",
+                                    "walker"]
         res_random = requests.get('https://dog.ceo/api/breed/hound/afghan/images/random')
         js_random = res_random.json()
         res_images = requests.get('https://dog.ceo/api/breed/hound/afghan/images')
@@ -83,7 +77,6 @@ class TestClassBreeds:
         for v in js_images.values():
             for va in js_random.values():
                 assert va or 'success' in v
-
 
     # 5 тест
     @pytest.mark.parametrize("dog", ["affenpinscher", "african"])
@@ -95,4 +88,3 @@ class TestClassBreeds:
         for v in js_images.values():
             for va in js.values():
                 assert va or 'success' in v
-        print(js)

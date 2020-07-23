@@ -9,6 +9,7 @@ class TestClassOpenbrewerydb:
         res = requests.get(f'https://api.openbrewerydb.org/breweries?by_city={url}')
         js = res.json()
         assert res.status_code == 200
+        assert js != []
         for list in js:
             for k , v in list.items():
                 if k == 'city':
