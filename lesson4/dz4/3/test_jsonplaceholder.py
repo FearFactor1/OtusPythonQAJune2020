@@ -9,7 +9,7 @@ class TestClassJsonplaceholder:
         js = res.json()
         i = 0
         dicid = {}
-        assert js != []
+        assert res.json()
         for list in js:
             for k, v in list.items():
                 if k == 'id':
@@ -22,7 +22,7 @@ class TestClassJsonplaceholder:
         js = res.json()
         i = 0
         dicid = {}
-        assert js != []
+        assert res.json()
         for list in js:
             for k, v in list.items():
                 if k == 'postId':
@@ -34,7 +34,7 @@ class TestClassJsonplaceholder:
         js = res.json()
         i = 0
         dicid = {}
-        assert js != []
+        assert res.json()
         for list in js:
             for k, v in list.items():
                 if k == 'id':
@@ -47,7 +47,7 @@ class TestClassJsonplaceholder:
         js = res.json()
         i = 0
         dicid = {}
-        assert js != []
+        assert res.json()
         for list in js:
             for k, v in list.items():
                 if k == 'postId':
@@ -59,7 +59,7 @@ class TestClassJsonplaceholder:
         js = res.json()
         i = 0
         dicid = {}
-        assert js != []
+        assert res.json()
         for list in js:
             for k, v in list.items():
                 if k == 'id':
@@ -73,7 +73,7 @@ class TestClassJsonplaceholder:
         js = res.json()
         i = 0
         dicid = {}
-        assert js != []
+        assert res.json()
         for list in js:
             for k, v in list.items():
                 if k == 'id':
@@ -87,7 +87,7 @@ class TestClassJsonplaceholder:
         js = res.json()
         i = 0
         dicid = {}
-        assert js != []
+        assert res.json()
         for list in js:
             for k, v in list.items():
                 if k == 'id':

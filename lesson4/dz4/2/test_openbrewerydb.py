@@ -9,7 +9,7 @@ class TestClassOpenbrewerydb:
         res = requests.get(f'https://api.openbrewerydb.org/breweries?by_city={url}')
         js = res.json()
         assert res.status_code == 200
-        assert js != []
+        assert res.json()
         for list in js:
             for k , v in list.items():
                 if k == 'city':
@@ -21,6 +21,7 @@ class TestClassOpenbrewerydb:
         res = requests.get(f'https://api.openbrewerydb.org/breweries?by_name={url}')
         js = res.json()
         assert res.status_code == 200
+        assert res.json()
         for list in js:
             for k, v in list.items():
                 if url == 'cooper':
@@ -36,6 +37,7 @@ class TestClassOpenbrewerydb:
         res = requests.get(f'https://api.openbrewerydb.org/breweries?{url}')
         js = res.json()
         assert res.status_code == 200
+        assert res.json()
         for list in js:
             for k , v in list.items():
                 if url == 'by_state=ohio':
@@ -54,6 +56,7 @@ class TestClassOpenbrewerydb:
         res = requests.get(f'https://api.openbrewerydb.org/breweries?by_postal={url}')
         js = res.json()
         assert res.status_code == 200
+        assert res.json()
         for list in js:
             for k, v in list.items():
                 if k == 'postal_code':
@@ -66,6 +69,7 @@ class TestClassOpenbrewerydb:
         res = requests.get(f'https://api.openbrewerydb.org/breweries?by_type={url}')
         js = res.json()
         assert res.status_code == 200
+        assert res.json()
         for list in js:
             for k, v in list.items():
                 if k == 'brewery_type':

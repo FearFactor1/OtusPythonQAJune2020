@@ -19,39 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="dz 2">
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_gen_from_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_generate_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_inside_fixture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_open_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_pairwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_params_infixture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_params_intest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex1/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex1/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex1/test_multiplication.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex2/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex2/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex2/test_status_code_get.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/api/api_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/tests/test_http.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/utils/checks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/1_class_instance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/2_methods_attributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/3_self_arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/4_access_control_incaps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/5_inh_polym.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/6_mro_in_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/7_class_decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/8_abstract_decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/9_magic_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/__init__.py" afterDir="false" />
+    <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="dz 2 - исправление">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/dz4/1/test_dogapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/dz4/1/test_dogapi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/dz4/2/test_openbrewerydb.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/dz4/2/test_openbrewerydb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/dz4/3/test_jsonplaceholder.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/dz4/3/test_jsonplaceholder.py" afterDir="false" />
     </list>
@@ -103,8 +72,8 @@
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\List" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_200_todos">
-    <configuration name="pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_100_albums" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts">
+    <configuration name="pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +85,7 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_jsonplaceholder.TestClassJsonplaceholder.test_100_albums&quot;" />
+      <option name="_new_target" value="&quot;test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -152,45 +121,45 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_500_comments" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_openbrewerydb.TestClassOpenbrewerydb" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_jsonplaceholder.TestClassJsonplaceholder.test_500_comments&quot;" />
+      <option name="_new_target" value="&quot;test_openbrewerydb.TestClassOpenbrewerydb&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_500_comments_postId" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_openbrewerydb.TestClassOpenbrewerydb.test_list_breweries_by_city" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_jsonplaceholder.TestClassJsonplaceholder.test_500_comments_postId&quot;" />
+      <option name="_new_target" value="&quot;test_openbrewerydb.TestClassOpenbrewerydb.test_list_breweries_by_city&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts" />
+        <item itemvalue="Python tests.pytest for test_openbrewerydb.TestClassOpenbrewerydb" />
+        <item itemvalue="Python tests.pytest for test_openbrewerydb.TestClassOpenbrewerydb.test_list_breweries_by_city" />
         <item itemvalue="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_200_todos" />
         <item itemvalue="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_5000_photos" />
-        <item itemvalue="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_100_albums" />
-        <item itemvalue="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_500_comments_postId" />
-        <item itemvalue="Python tests.pytest for test_jsonplaceholder.TestClassJsonplaceholder.test_500_comments" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595448950380</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="dz 2 - исправление">
+      <created>1595531072889</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1595531072889</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,7 +268,8 @@
     <MESSAGE value="dz 1" />
     <MESSAGE value="dz 1 - исправление" />
     <MESSAGE value="dz 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz 2" />
+    <MESSAGE value="dz 2 - исправление" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz 2 - исправление" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1165" y="561" width="751" height="277" key="#Notifications" timestamp="1593459795732">
@@ -336,25 +313,25 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="1578" height="218" key="GridCell.Tab.0.bottom" timestamp="1595530806517">
+    <state width="1578" height="218" key="GridCell.Tab.0.bottom" timestamp="1595537194384">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595530806517" />
+    <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2538" height="486" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
-    <state width="1578" height="218" key="GridCell.Tab.0.center" timestamp="1595530806517">
+    <state width="1578" height="218" key="GridCell.Tab.0.center" timestamp="1595537194384">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595530806517" />
+    <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2538" height="486" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
-    <state width="1578" height="218" key="GridCell.Tab.0.left" timestamp="1595530806517">
+    <state width="1578" height="218" key="GridCell.Tab.0.left" timestamp="1595537194384">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595530806517" />
+    <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2538" height="486" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
-    <state width="1578" height="218" key="GridCell.Tab.0.right" timestamp="1595530806517">
+    <state width="1578" height="218" key="GridCell.Tab.0.right" timestamp="1595537194384">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595530806517" />
+    <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2538" height="486" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594550484198" />
     <state width="1578" height="271" key="GridCell.Tab.1.bottom" timestamp="1595453821516">
       <screen x="0" y="0" width="1600" height="860" />
@@ -381,10 +358,10 @@
     </state>
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1593461159985" />
-    <state x="545" y="265" key="Vcs.Push.Dialog.v2" timestamp="1595448967131">
+    <state x="545" y="265" key="Vcs.Push.Dialog.v2" timestamp="1595531084166">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1595448967131" />
+    <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1595531084166" />
     <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594463917069" />
     <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1595181259910">
       <screen x="0" y="0" width="1600" height="860" />
