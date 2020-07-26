@@ -35,5 +35,8 @@ class CheckHeaders:
         assert key in responseJson['headers']
         assert value == responseJson['headers'][key]
         return            
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
