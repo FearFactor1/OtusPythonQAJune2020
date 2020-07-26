@@ -2,8 +2,6 @@ import pytest
 import json
 
 
-
-
 class TestClassSet:
 
     # 1 тест
@@ -15,6 +13,7 @@ class TestClassSet:
             for setu in info_clubs:
                 sets = set(setu)
                 sets.add(status)
+                assert status in sets
                 print(sets)
 
 
@@ -26,6 +25,7 @@ class TestClassSet:
             for setu in info_clubs:
                 sets = set(setu)
                 sets.discard('name')
+                assert 'name' not in sets
                 print(sets)
 
 
@@ -37,6 +37,7 @@ class TestClassSet:
             for setu in info_clubs:
                 sets = set(setu)
                 cop = sets.copy()
+                assert cop == sets
                 print(cop)
 
 
@@ -48,6 +49,7 @@ class TestClassSet:
             for setu in info_clubs:
                 sets = set(setu)
                 lens = len(sets)
+                assert lens == 5
                 print(lens)
 
 
@@ -59,4 +61,5 @@ class TestClassSet:
             for setu in info_clubs:
                 sets = set(setu)
                 frozensets = frozenset(sets)
+                assert "email" in frozensets
                 print(frozensets)

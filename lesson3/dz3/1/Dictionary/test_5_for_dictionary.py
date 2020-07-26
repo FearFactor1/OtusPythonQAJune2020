@@ -1,8 +1,6 @@
 import pytest
 
 
-
-
 class TestClassDictionary:
 
     # 1 тест
@@ -13,6 +11,7 @@ class TestClassDictionary:
             words = [i.strip().lower() for i in file.read().split()]
             dword = dict(zip(words[:-1], words[1:]))
             dword[words1] = words2
+            assert words1 in dword
             print(dword, end='')
 
 
@@ -22,6 +21,7 @@ class TestClassDictionary:
             words = [i.strip().lower() for i in file.read().split()]
             dword = dict(zip(words[:-1], words[1:]))
             pops = dword.pop("the")
+            assert "the" not in dword
             print(pops, end='')
 
 
@@ -31,7 +31,9 @@ class TestClassDictionary:
             words = [i.strip().lower() for i in file.read().split()]
             dword = dict(zip(words[:-1], words[1:]))
             dword.clear()
+            assert dword == {}
             print(dword)
+
 
     # 4 тест
     def test_get_dictionary(self):
@@ -39,6 +41,7 @@ class TestClassDictionary:
             words = [i.strip().lower() for i in file.read().split()]
             dword = dict(zip(words[:-1], words[1:]))
             gets = dword.get("to")
+            assert gets == "support"
             print(gets)
 
 
@@ -48,5 +51,6 @@ class TestClassDictionary:
             words = [i.strip().lower() for i in file.read().split()]
             dword = dict(zip(words[:-1], words[1:]))
             lens = len(dword)
+            assert lens == 29
             print(lens)
 

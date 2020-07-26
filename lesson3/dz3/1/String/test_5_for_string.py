@@ -1,8 +1,6 @@
 import pytest
 
 
-
-
 class TestClassString:
 
     # 1 тест
@@ -11,6 +9,7 @@ class TestClassString:
         with open('../String/datadz.xml', 'r') as file:
             f = file.read()
             counts = f.count(count)
+            assert counts != '0'
             print(counts)
 
 
@@ -19,6 +18,7 @@ class TestClassString:
         with open('../String/datadz.xml', 'r') as file:
             f = file.read()
             up = f.upper()
+            assert 'MOSCOW' in up
             print(up)
 
 
@@ -27,6 +27,7 @@ class TestClassString:
         with open('../String/datadz.xml', 'r') as file:
             f = file.read()
             sp = f.split()
+            assert len(sp) == 24
             print(sp)
 
 
@@ -35,6 +36,7 @@ class TestClassString:
         with open('../String/datadz.xml', 'r') as file:
             f = file.read()
             j = " ".join(f)
+            assert " M o s c o w " in j
             print(j)
 
 
@@ -43,4 +45,5 @@ class TestClassString:
         with open('../String/datadz.xml', 'r') as file:
             f = file.read()
             rp = f.replace('<', ' ')
+            assert '<' not in rp
             print(rp)
