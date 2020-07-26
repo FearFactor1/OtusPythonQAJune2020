@@ -19,80 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson5/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_gen_from_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_generate_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_inside_fixture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_open_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_pairwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_params_infixture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex0/test_params_intest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex1/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex1/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex1/test_multiplication.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex2/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex2/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex2/test_status_code_get.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/api/api_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/tests/test_http.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/ex3/utils/checks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/dz4/1/test_dogapi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/dz4/2/test_openbrewerydb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/dz4/3/test_jsonplaceholder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/dz4/4/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/dz4/4/test_param_status_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/4_api_example/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/4_api_example/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/4_api_example/tests/test_init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/python_qa_api/4_api_example/tests/test_update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/base/nums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/dz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/dz/cls/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/dz/cls/the_figure_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/dz/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/dz/tests/test_figurecircles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/dz/tests/test_figurequad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/dz/tests/test_figurerectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/dz/tests/test_figuretriangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/examples/1_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/examples/2_methods_and_attrs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/examples/3_self_arg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/examples/4_incapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/examples/5_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/examples/6_mro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/examples/7_class_decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/examples/8_abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/examples/magic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/tests/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OtusPythonQAJune2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OtusPythonQAJune2020.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/test_first1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/test_first1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3-Vyazemsky/output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/Dictionary/test_5_for_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/Dictionary/test_5_for_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/List/datadz.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/List/datadz.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/List/test_5_for_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/List/test_5_for_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/Set/test_5_for_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/Set/test_5_for_set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/1/String/test_5_for_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/1/String/test_5_for_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/2/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/2/example.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/2/test_creat_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/2/test_creat_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/dz3/2/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/dz3/2/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/example.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/.venv1/bin/Activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/read/dump.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/read/dump.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/test-data/write/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/test-data/write/new.txt" afterDir="false" />
-    </list>
+    <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson4/dz4/4" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -316,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595531072889</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="dz 3">
+      <created>1595763240206</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1595763240206</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,7 +275,8 @@
     <MESSAGE value="dz 1 - исправление" />
     <MESSAGE value="dz 2" />
     <MESSAGE value="dz 2 - исправление" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz 2 - исправление" />
+    <MESSAGE value="dz 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1165" y="561" width="751" height="277" key="#Notifications" timestamp="1593459795732">
@@ -360,10 +295,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
-    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1594463909480">
+    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1595763239644">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1594463909480" />
+    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1595763239644" />
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1593459902468">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -425,16 +360,16 @@
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
     <state width="2538" height="486" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595763015309" />
-    <state x="602" y="122" key="SettingsEditor" timestamp="1594738724441">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="1418" y="332" key="SettingsEditor" timestamp="1595763327594">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
-    <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1593461159985" />
-    <state x="545" y="265" key="Vcs.Push.Dialog.v2" timestamp="1595531084166">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1595763327594" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1595763254306">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1595531084166" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594463917069" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1595763254306" />
     <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1595181259910">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
