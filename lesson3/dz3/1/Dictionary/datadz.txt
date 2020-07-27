@@ -1,0 +1,3 @@
+﻿Whitespaces: the most preferred method of indentation.
+Tab: it should only be used to support code that is indented using tabs.
+Python 3: prohibits the mixing of tabs and spaces in indentation.
