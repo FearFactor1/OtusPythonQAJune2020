@@ -14,7 +14,7 @@ def pytest_addoption(parser):
 
     parser.addoption(
             "--url_browser",
-            default="http://localhost//",
+            default="https://demo.opencart.com/",
             help="url"
         )
 

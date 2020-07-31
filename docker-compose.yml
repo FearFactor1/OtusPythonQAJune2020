@@ -6,6 +6,8 @@ services:
       - PMA_HOST=mariadb
       - PMA_PORT=3306
       - PMA_USER=bn_opencart
+      - PMA_EMAIL=user@example.com
+      - PMA_ROOT_USER=admin
     ports:
       - '8080:80'
   mariadb:
@@ -21,6 +23,7 @@ services:
     environment:
       - MARIADB_HOST=mariadb
       - MARIADB_PORT_NUMBER=3306
+      - MARIADB_ROOT_USER=admin
       - OPENCART_DATABASE_USER=bn_opencart
       - OPENCART_DATABASE_NAME=bitnami_opencart
       - OPENCART_HOST=localhost
