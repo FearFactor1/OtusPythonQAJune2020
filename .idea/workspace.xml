@@ -19,11 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
+    <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="dz 4">
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/locators/LoginAdminPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/locators/MainPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/tests/test_find_element_by.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/tests/test_find_elements_by.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/tests/test_locators_files_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/pyhton_qa_element_search/tests/test_using_by_class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/dz/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/dz/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/dz/test_page_opencart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/dz/test_page_opencart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596116861440</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="dz 4">
+      <created>1596189437929</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596189437929</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -345,10 +361,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2588" y="103" key="#pytest_for_test_page_opencart.TestClassOpencart.test_main_page/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596015780474" />
-    <state x="2600" y="198" key="CommitChangelistDialog2" timestamp="1596116858570">
+    <state x="2600" y="198" key="CommitChangelistDialog2" timestamp="1596189586990">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596116858570" />
+    <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189586990" />
     <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1595763239644" />
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1593459902468">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -371,70 +387,71 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1596189211097">
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1596189385218">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189211097" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189385218" />
     <state width="2538" height="486" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595763014302" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1596189211097">
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1596189385218">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189211097" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189385218" />
     <state width="2538" height="486" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595763014302" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1596189211097">
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1596189385218">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189211097" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189385218" />
     <state width="2538" height="486" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595763014302" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1596189211097">
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1596189385218">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189211097" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189385218" />
     <state width="2538" height="486" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595763014302" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1596189211097">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1596189385218">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189211097" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189385218" />
     <state width="2538" height="486" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595763015309" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1596189211097">
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1596189385218">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189211097" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189385218" />
     <state width="2538" height="486" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595763015309" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1596189211097">
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1596189385218">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189211097" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189385218" />
     <state width="2538" height="486" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595763015309" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1596189211097">
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1596189385218">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189211097" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189385218" />
     <state width="2538" height="486" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595763015309" />
-    <state x="1418" y="332" key="SettingsEditor" timestamp="1595763327594">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="2842" y="247" key="SettingsEditor" timestamp="1596189576545">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
+    <state x="2842" y="247" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189576545" />
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1595763327594" />
-    <state x="2574" y="320" key="Vcs.Push.Dialog.v2" timestamp="1596116872135">
+    <state x="2574" y="320" key="Vcs.Push.Dialog.v2" timestamp="1596189442877">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1595531084166" />
-    <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596116872135" />
+    <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189442877" />
     <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1595763254306" />
-    <state width="966" height="527" key="XDebugger.FullValuePopup" timestamp="1596189169719">
+    <state width="966" height="527" key="XDebugger.FullValuePopup" timestamp="1596189355741">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="805" height="435" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1595181259910" />
-    <state width="966" height="527" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189169719" />
+    <state width="966" height="527" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189355741" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1594550434632" />
     <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593459966165">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -448,10 +465,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="968" y="487" key="git4idea.merge.GitPullDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594241539313" />
-    <state x="653" y="369" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594740482331">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="2704" y="446" width="641" height="198" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596189604045">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="653" y="369" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1594740482331" />
+    <state x="2704" y="446" width="641" height="198" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596189604045" />
     <state x="1044" y="600" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593460838320" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1595440891495">
       <screen x="0" y="0" width="1600" height="860" />
@@ -465,11 +483,6 @@
           <url>file://$PROJECT_DIR$/lesson2/0_pytest_intro/test_pytest_intro.py</url>
           <line>18</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Lesson8/dz/test_page_opencart.py</url>
-          <line>130</line>
-          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
