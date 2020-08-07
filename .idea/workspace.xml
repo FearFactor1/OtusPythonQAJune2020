@@ -20,33 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/Activate.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/activate.csh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/activate.fish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/easy_install" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/easy_install-3.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/pip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/pip3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/pip3.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/py.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/pytest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/python3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/bin/python3.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/.venv78/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/examples/comby_wait_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/examples/custom_wait_function_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/examples/custom_waits_class_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/examples/explicity_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/examples/implicity_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/examples/staleness_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/PythonWaits/tests/test_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/1_webelement/send_keys_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/1_webelement/test_select_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/1_webelement/webelement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/2_property_vs_attribute/prop_attr_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/3_action_chains/action_chain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/3_action_chains/test_drag_and_drop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/4_javascript/test_undisable_button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/locators/CatalogPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/locators/CommonSelectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/locators/MainPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/locators/ProductPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596528656007</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="lesson10">
+      <created>1596552909072</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596552909072</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,7 +330,8 @@
     <MESSAGE value="dz 3" />
     <MESSAGE value="lesson9" />
     <MESSAGE value="docker" />
-    <option name="LAST_COMMIT_MESSAGE" value="docker" />
+    <MESSAGE value="lesson10" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1165" y="561" width="751" height="277" key="#Notifications" timestamp="1593459795732">
@@ -350,10 +350,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
-    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1596528654677">
+    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1596552907144">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596528654677" />
+    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596552907144" />
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1593459902468">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -428,11 +428,11 @@
     </state>
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1595763327594" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1596528664728">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1596552917465">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1595531084166" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596528664728" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596552917465" />
     <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1595181259910">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
