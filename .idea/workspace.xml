@@ -20,24 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/1_webelement/send_keys_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/1_webelement/test_select_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/1_webelement/webelement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/2_property_vs_attribute/prop_attr_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/3_action_chains/action_chain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/3_action_chains/test_drag_and_drop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/4_javascript/test_undisable_button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/install.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/locators/CatalogPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/locators/CommonSelectors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/locators/MainPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/locators/ProductPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/locators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/python_qa_webelements/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/BasePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/CartPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/MainPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/ProductPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/UserPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/common/Alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/common/Footer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/common/Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/common/TopMenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/page_objects/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/python_qa_pageobject/tests/test_example_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,15 +83,15 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson6\dz\1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dimon\PycharmProjects\OtusPythonQAJune2020\lesson4\dz4\4" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\String" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\Dictionary" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\Set" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\List" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson6\dz\1" />
     </key>
   </component>
   <component name="RunManager" selected="Python tests.pytest for test_figurecircles.TestClassFigureCircles.test_area">
@@ -302,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596552909072</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="lesson11">
+      <created>1596781795217</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596781795217</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,7 +337,8 @@
     <MESSAGE value="lesson9" />
     <MESSAGE value="docker" />
     <MESSAGE value="lesson10" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson10" />
+    <MESSAGE value="lesson11" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1165" y="561" width="751" height="277" key="#Notifications" timestamp="1593459795732">
@@ -350,10 +357,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
-    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1596552907144">
+    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1596781789713">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596552907144" />
+    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596781789713" />
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1593459902468">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
