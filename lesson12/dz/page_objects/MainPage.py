@@ -30,3 +30,9 @@ class MainPage(BasePage):
    def img_in_main_page(self):
        img = self.driver.find_element_by_tag_name("img").get_attribute("src")
        return img
+
+   def my_account(self):
+       self.driver.find_element_by_link_text("My Account").click()
+
+   def menu_my_account(self):
+       self.driver.find_element_by_link_text("Login").click()

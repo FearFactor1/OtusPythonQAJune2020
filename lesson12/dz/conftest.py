@@ -26,7 +26,7 @@ def browsers(request):
         chrome_options.headless = False
         chrome_options.add_argument('start-fullscreen')
         wd = webdriver.Chrome(options=chrome_options)
-        wd.implicitly_wait(3)
+        wd.implicitly_wait(4)
         return wd
     elif request.config.getoption("--browser") == "firefox":
         firefox_option = FirefoxOptions()

@@ -20,17 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson12/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/dz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/dz/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/dz/page_objects/BasePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/dz/page_objects/MainPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/dz/page_objects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/dz/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12/dz/test/test_pageobject_opencart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OtusPythonQAJune2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OtusPythonQAJune2020.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/dz/page_objects/AccountLogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/dz/page_objects/AdminPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/dz/page_objects/CatalogDesktops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/dz/page_objects/ProductId_49.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson12/dz/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson12/dz/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson12/dz/page_objects/BasePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson12/dz/page_objects/BasePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson12/dz/page_objects/MainPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson12/dz/page_objects/MainPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson12/dz/page_objects/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson12/dz/page_objects/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson12/dz/test/test_pageobject_opencart.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson12/dz/test/test_pageobject_opencart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,68 +87,52 @@
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson6\dz\1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_main_page">
-    <configuration name="pytest for test_figurecircles.TestClassFigureCircles" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_admin">
+    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_account" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6/dz/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson12/dz/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_figurecircles.TestClassFigureCircles&quot;" />
+      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_account&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_figurecircles.TestClassFigureCircles.test_area" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_admin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6/dz/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson12/dz/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_figurecircles.TestClassFigureCircles.test_area&quot;" />
+      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_admin&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_figurecircles.TestClassFigureCircles.test_circle_length" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_catalog_desktops" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6/dz/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson12/dz/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_figurecircles.TestClassFigureCircles.test_circle_length&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_figurecircles.TestClassFigureCircles.test_perimeter" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="OtusPythonQAJune2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6/dz/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_figurecircles.TestClassFigureCircles.test_perimeter&quot;" />
+      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_catalog_desktops&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -169,13 +152,29 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_product_id_49" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson12/dz/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_product_id_49&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_admin" />
+        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_account" />
+        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_product_id_49" />
+        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_catalog_desktops" />
         <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_main_page" />
-        <item itemvalue="Python tests.pytest for test_figurecircles.TestClassFigureCircles.test_area" />
-        <item itemvalue="Python tests.pytest for test_figurecircles.TestClassFigureCircles" />
-        <item itemvalue="Python tests.pytest for test_figurecircles.TestClassFigureCircles.test_perimeter" />
-        <item itemvalue="Python tests.pytest for test_figurecircles.TestClassFigureCircles.test_circle_length" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597122013860</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="dz 5 - 1й тест переведен на page object">
+      <created>1597153210198</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1597153210198</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,7 +346,8 @@
     <MESSAGE value="lesson10" />
     <MESSAGE value="lesson11" />
     <MESSAGE value="lesson12" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson12" />
+    <MESSAGE value="dz 5 - 1й тест переведен на page object" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz 5 - 1й тест переведен на page object" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1165" y="561" width="751" height="277" key="#Notifications" timestamp="1593459795732">
@@ -359,10 +366,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
-    <state x="2600" y="198" key="CommitChangelistDialog2" timestamp="1597122008229">
+    <state x="2600" y="198" key="CommitChangelistDialog2" timestamp="1597153204468">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597122008229" />
+    <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597153204468" />
     <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596781789713" />
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1593459902468">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -385,53 +392,53 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1597151397534">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1597217532646">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597151397534" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597217532646" />
     <state width="2538" height="292" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1597151397534">
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1597217532646">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597151397534" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597217532646" />
     <state width="2538" height="292" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1597151397533">
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1597217532646">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597151397533" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597217532646" />
     <state width="2538" height="292" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573029" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1597151397534">
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1597217532646">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597151397534" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597217532646" />
     <state width="2538" height="292" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1597146453598">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1597216940429">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597146453598" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597216940429" />
     <state width="2538" height="292" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1597146453597">
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1597216940429">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597146453597" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597216940429" />
     <state width="2538" height="292" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1597146453597">
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1597216940429">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597146453597" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597216940429" />
     <state width="2538" height="292" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1597146453597">
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1597216940429">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597146453597" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597216940429" />
     <state width="2538" height="292" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
     <state x="248" y="121" key="MergeDialog" timestamp="1595763451071">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -446,11 +453,11 @@
     </state>
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1595763327594" />
-    <state x="2574" y="320" key="Vcs.Push.Dialog.v2" timestamp="1597122028371">
+    <state x="2574" y="320" key="Vcs.Push.Dialog.v2" timestamp="1597153225749">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1595531084166" />
-    <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597122028371" />
+    <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597153225749" />
     <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596552917465" />
     <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1595181259910">
       <screen x="0" y="0" width="1600" height="860" />
@@ -474,6 +481,10 @@
     </state>
     <state x="653" y="369" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1594740482331" />
     <state x="1044" y="600" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593460838320" />
+    <state x="2723" y="305" key="refactoring.ChangeSignatureDialog" timestamp="1597214580073">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2723" y="305" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597214580073" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1595440891495">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
