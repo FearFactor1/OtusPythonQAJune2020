@@ -65,19 +65,19 @@ class TestClassOpencart:
     def test_account(self, browsers, url_browsers):
         browsers.get(f'{url_browsers}/index.php?route=account/login')
         assert browsers.title == 'Account Login'
-        AccountLogin(browsers).input_email().send_keys("fdgfd@gff.com")
-        AccountLogin(browsers).input_password().send_keys("5555")
-        AccountLogin(browsers).button_login()
+        AccountLogin(browsers) \
+            .login_user(email="fdgfd@gff.com", password="5555")
         assert browsers.title == 'My Account'
-        AccountLogin(browsers).logout()
-        AccountLogin(browsers).continue_click()
+        AccountLogin(browsers) \
+            .logout() \
+            .continue_click()
         assert browsers.title == 'Your Store'
-        MainPage(browsers).my_account()
-        MainPage(browsers).menu_my_account()
-        AccountLogin(browsers).input_email().send_keys("fdgfd@gff.com")
-        AccountLogin(browsers).input_password().send_keys("5555")
-        AccountLogin(browsers).button_login()
-        AccountLogin(browsers).wish_list()
+        MainPage(browsers) \
+            .my_account() \
+            .menu_my_account()
+        AccountLogin(browsers) \
+            .login_user(email="fdgfd@gff.com", password="5555") \
+            .wish_list()
         assert browsers.title == 'My Wish List'
         assert AccountLogin(browsers).product_name_in_wish_list() \
                == 'My Wish List\nImage Product Name Model Stock Unit Price Action' \
@@ -87,14 +87,14 @@ class TestClassOpencart:
     # 5 тест
     def test_admin(self, browsers, url_browsers):
         browsers.get(f'{url_browsers}/admin/')
-        assert browsers.title == 'Administration'
         AdminPage(browsers).button_login()
         assert browsers.title == 'Dashboard'
         AdminPage(browsers).button_logout()
         assert browsers.title == 'Administration'
-        AdminPage(browsers).button_login()
-        AdminPage(browsers).catalogs()
-        AdminPage(browsers).products()
+        AdminPage(browsers) \
+            .button_login() \
+            .catalogs() \
+            .products()
         assert browsers.title == "Products"
         assert "Apple Cinema 30" in AdminPage(browsers).table()
         browsers.quit()
