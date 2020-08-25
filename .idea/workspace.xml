@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson15/selenium-server-standalone-3.141.59.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +80,7 @@
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson6\dz\1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_creat_example.test_creat_json">
+  <component name="RunManager" selected="Python tests.pytest for test_dogapi.TestClassBreeds.test_BREEDS_LIST">
     <configuration name="pytest for test_creat_example.test_creat_json" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,35 +97,35 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_account" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_dogapi.TestClassBreeds.test_BREEDS_LIST" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson12/dz/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_account&quot;" />
+      <option name="_new_target" value="&quot;test_dogapi.TestClassBreeds.test_BREEDS_LIST&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_admin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_openbrewerydb.TestClassOpenbrewerydb.test_list_breweries_by_city" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson12/dz/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/dz4/2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_admin&quot;" />
+      <option name="_new_target" value="&quot;test_openbrewerydb.TestClassOpenbrewerydb.test_list_breweries_by_city&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -143,29 +145,29 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_product_id_49" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_undisable_button.test_disabled_button" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson12/dz/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson11/python_qa_webelements/4_javascript" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_product_id_49&quot;" />
+      <option name="_new_target" value="&quot;test_undisable_button.test_disabled_button&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_dogapi.TestClassBreeds.test_BREEDS_LIST" />
+        <item itemvalue="Python tests.pytest for test_openbrewerydb.TestClassOpenbrewerydb.test_list_breweries_by_city" />
+        <item itemvalue="Python tests.pytest for test_undisable_button.test_disabled_button" />
         <item itemvalue="Python tests.pytest for test_creat_example.test_creat_json" />
         <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_main_page" />
-        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_admin" />
-        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_product_id_49" />
-        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_account" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597409027693</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary=".idea">
+      <created>1597904262972</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1597904262972</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,7 +372,8 @@
     <MESSAGE value="dz 5" />
     <MESSAGE value="dz 5 - исправление" />
     <MESSAGE value="lesson13" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson13" />
+    <MESSAGE value=".idea" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1165" y="561" width="751" height="277" key="#Notifications" timestamp="1593459795732">
@@ -382,9 +392,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
-    <state x="2600" y="198" key="CommitChangelistDialog2" timestamp="1597409022764">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="567" y="33" key="CommitChangelistDialog2" timestamp="1597904260679">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state x="567" y="33" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1597904260679" />
     <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597409022764" />
     <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596781789713" />
     <state width="950" height="466" key="DebuggerActiveHint" timestamp="1597326193423">
@@ -395,10 +406,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593459902468" />
-    <state x="1697" y="455" key="FileChooserDialogImpl" timestamp="1593456783254">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="3193" y="338" key="FileChooserDialogImpl" timestamp="1598249916980">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="1697" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1593456783254" />
+    <state x="1061" y="280" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1597929239243" />
+    <state x="1273" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598245807636" />
+    <state x="3193" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249916980" />
+    <state x="1697" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1598004309588" />
     <state x="1027" y="565" key="Github.CreatePullRequestDialog" timestamp="1593458577531">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -412,54 +426,54 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1597412228084">
+    <state width="2539" height="492" key="GridCell.Tab.0.bottom" timestamp="1598249919890">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597412228084" />
-    <state width="2538" height="292" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1597412228084">
+    <state width="2539" height="492" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
+    <state width="2539" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
+    <state width="2539" height="492" key="GridCell.Tab.0.center" timestamp="1598249919890">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597412228084" />
-    <state width="2538" height="292" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1597412228084">
+    <state width="2539" height="492" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
+    <state width="2539" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
+    <state width="2539" height="492" key="GridCell.Tab.0.left" timestamp="1598249919890">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597412228084" />
-    <state width="2538" height="292" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573029" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1597412228084">
+    <state width="2539" height="492" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
+    <state width="2539" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
+    <state width="2539" height="492" key="GridCell.Tab.0.right" timestamp="1598249919890">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597412228084" />
-    <state width="2538" height="292" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1597412228063">
+    <state width="2539" height="492" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
+    <state width="2539" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1598249919890">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597412228063" />
-    <state width="2538" height="292" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1597412228062">
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1598249919890">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597412228062" />
-    <state width="2538" height="292" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1597412228062">
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1598249919890">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597412228062" />
-    <state width="2538" height="292" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1597412228063">
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1598249919890">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597412228063" />
-    <state width="2538" height="292" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595763573030" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
     <state x="248" y="121" key="MergeDialog" timestamp="1595763451071">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -473,10 +487,10 @@
     </state>
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1595763327594" />
-    <state x="2574" y="320" key="Vcs.Push.Dialog.v2" timestamp="1597409039149">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="545" y="265" key="Vcs.Push.Dialog.v2" timestamp="1597904269420">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1595531084166" />
+    <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597904269420" />
     <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597409039149" />
     <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596552917465" />
     <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1595181259910">
