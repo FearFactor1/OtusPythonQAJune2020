@@ -10,7 +10,9 @@ class ProductId49(BasePage):
         self.driver.find_element_by_css_selector("button[data-toggle=tooltip]").click()
 
     def alert_wish_login(self):
-        alert_lg = self.driver.find_element_by_css_selector(".alert-dismissible").text
+        alert_lg = WebDriverWait(self.driver, 7).until(
+            EC.visibility_of_element_located((By.CSS_SELECTOR, ".alert-dismissible"))
+        ).text
         return alert_lg
 
     def compare(self):

@@ -27,12 +27,13 @@ def browser_se(request):
     executor_url = f"http://{selenoid}:4444/wd/hub"
 
     options = webdriver.ChromeOptions()
+    options.add_argument('start-fullscreen')
 
     caps = {"browserName": browser,
             "enableVnc": True,
             #"enableVideo": True,
             # "enableLog": True,
-            # "screenResolution": "1280x720",
+            "screenResolution": "1280x720",
             "name": request.node.name}
 
     driver = webdriver.Remote(command_executor=executor_url, desired_capabilities=caps, options=options)
