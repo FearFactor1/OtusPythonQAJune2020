@@ -1,4 +1,7 @@
 from .BasePage import BasePage
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 
 
 class AdminPage(BasePage):
@@ -15,7 +18,9 @@ class AdminPage(BasePage):
         return self
 
     def products(self):
-        self.driver.find_element_by_xpath("//a[contains(text(),'Products')]").click()
+        WebDriverWait(self.driver, 7).until(
+            EC.visibility_of_element_located((By.XPATH, "//a[contains(text(),'Products')]"))
+        ).click()
         return self
 
     def table(self):

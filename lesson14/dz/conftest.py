@@ -30,6 +30,7 @@ def browser_se(request):
     options.add_argument('start-fullscreen')
 
     caps = {"browserName": browser,
+            #"version": "83.0",
             "enableVnc": True,
             #"enableVideo": True,
             # "enableLog": True,
