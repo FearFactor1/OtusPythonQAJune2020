@@ -20,7 +20,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson14/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/bin/allure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/bin/allure.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/config/allure-cucumber.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/config/allure-junit.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/config/allure.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/behaviors-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/behaviors-plugin/behaviors-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/behaviors-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/custom-logo-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/custom-logo-plugin/custom-logo-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/custom-logo-plugin/static/custom-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/custom-logo-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/jira-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/jira-plugin/jira-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/junit-xml-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/junit-xml-plugin/junit-xml-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/packages-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/packages-plugin/packages-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/packages-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/screen-diff-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/screen-diff-plugin/screen-diff-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/screen-diff-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/screen-diff-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/trx-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/trx-plugin/trx-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/xctest-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/xctest-plugin/xctest-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/xray-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/xray-plugin/xray-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/xunit-xml-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/allure/plugins/xunit-xml-plugin/xunit-xml-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/dz/install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14/dz/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/bin/allure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/bin/allure.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/config/allure-cucumber.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/config/allure-junit.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/config/allure.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/behaviors-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/behaviors-plugin/behaviors-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/behaviors-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/custom-logo-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/custom-logo-plugin/custom-logo-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/custom-logo-plugin/static/custom-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/custom-logo-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/jira-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/jira-plugin/jira-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/junit-xml-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/junit-xml-plugin/junit-xml-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/packages-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/packages-plugin/packages-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/packages-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/screen-diff-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/screen-diff-plugin/screen-diff-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/screen-diff-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/screen-diff-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/trx-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/trx-plugin/trx-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/xctest-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/xctest-plugin/xctest-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/xray-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/xray-plugin/xray-plugin-2.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/xunit-xml-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson17/allure/plugins/xunit-xml-plugin/xunit-xml-plugin-2.13.5.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson14/dz/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson14/dz/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson14/dz/test/test_pageobject_opencart.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson14/dz/test/test_pageobject_opencart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson16/OtusPythonQAJune2020 - Ярлык.lnk" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +132,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seleniumpython" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson14/dz" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -71,101 +141,83 @@
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson6\dz\1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson14" />
       <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson14\dz" />
+      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson14" />
       <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson12\dz" />
       <recent name="C:\Users\dimon\PycharmProjects\OtusPythonQAJune2020\lesson4\dz4\4" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson3\dz3\1\String" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_account">
-    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_account (1)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in test_pageobject_opencart.py">
+    <configuration name="install.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/lesson17/python_qa_allure/install.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson17/python_qa_allure" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson12/dz/test" />
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_pageobject_opencart.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_account&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson14/dz/test/test_pageobject_opencart.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_account" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz/test" />
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_account&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_additionalArguments" value="&quot;$PROJECT_DIR$/lesson14/dz/test/test_pageobject_opencart.py::TestClassOpencart::test_main_page&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;CUSTOM&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_admin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="OtusPythonQAJune2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_admin&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_catalog_desktops" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="OtusPythonQAJune2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_catalog_desktops&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_pageobject_opencart.TestClassOpencart.test_product_id_49" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="OtusPythonQAJune2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_pageobject_opencart.TestClassOpencart.test_product_id_49&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Shell Script.install.sh" />
+      <item itemvalue="Python tests.pytest" />
+      <item itemvalue="Python tests.pytest in test_pageobject_opencart.py" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_account" />
-        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_account (1)" />
-        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_admin" />
-        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_product_id_49" />
-        <item itemvalue="Python tests.pytest for test_pageobject_opencart.TestClassOpencart.test_catalog_desktops" />
+        <item itemvalue="Python tests.pytest in test_pageobject_opencart.py" />
+        <item itemvalue="Python tests.pytest" />
+        <item itemvalue="Shell Script.install.sh" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598446665298</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="lesson17">
+      <created>1598597102516</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1598597102516</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +468,8 @@
     <MESSAGE value="15 lesson" />
     <MESSAGE value="16 lesson" />
     <MESSAGE value="dz 6 логгирование + селеноид" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz 6 логгирование + селеноид" />
+    <MESSAGE value="lesson17" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson17" />
   </component>
   <component name="WindowStateProjectService">
     <state x="986" y="470" key="#Log_Highlighting_(ideolog)" timestamp="1598363426161">
@@ -420,14 +480,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1165" y="561" width="751" height="277" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1593459795732" />
-    <state x="734" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593461201122">
+    <state x="872" y="340" key="#Plugins" timestamp="1598602966865">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="734" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593461201122" />
+    <state x="872" y="340" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1598602966865" />
+    <state x="734" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598946898572">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598946898572" />
     <state x="1056" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598360175928">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1056" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1598360175928" />
+    <state x="960" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598602816321">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598602816321" />
     <state x="1010" y="445" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594550538992">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -436,12 +504,12 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
-    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1598446661338">
+    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1598597100829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="567" y="33" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1597904260679" />
     <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597409022764" />
-    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1598446661338" />
+    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1598597100829" />
     <state width="950" height="466" key="DebuggerActiveHint" timestamp="1597326193423">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -450,13 +518,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593459902468" />
-    <state x="1697" y="455" key="FileChooserDialogImpl" timestamp="1598530716087">
+    <state x="1697" y="455" key="FileChooserDialogImpl" timestamp="1598883028709">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="280" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1597929239243" />
     <state x="1273" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598245807636" />
     <state x="3193" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249916980" />
-    <state x="1697" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1598530716087" />
+    <state x="1697" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1598883028709" />
     <state x="1027" y="565" key="Github.CreatePullRequestDialog" timestamp="1593458577531">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -470,30 +538,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="2539" height="399" key="GridCell.Tab.0.bottom" timestamp="1598530717804">
+    <state width="2539" height="399" key="GridCell.Tab.0.bottom" timestamp="1598947016534">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2539" height="492" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
-    <state width="2539" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598530717804" />
-    <state width="2539" height="399" key="GridCell.Tab.0.center" timestamp="1598530717804">
+    <state width="2539" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598947016534" />
+    <state width="2539" height="399" key="GridCell.Tab.0.center" timestamp="1598947016534">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2539" height="492" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
-    <state width="2539" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598530717804" />
-    <state width="2539" height="399" key="GridCell.Tab.0.left" timestamp="1598530717804">
+    <state width="2539" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598947016534" />
+    <state width="2539" height="399" key="GridCell.Tab.0.left" timestamp="1598947016534">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2539" height="492" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
-    <state width="2539" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598530717804" />
-    <state width="2539" height="399" key="GridCell.Tab.0.right" timestamp="1598530717804">
+    <state width="2539" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598947016534" />
+    <state width="2539" height="399" key="GridCell.Tab.0.right" timestamp="1598947016534">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2539" height="492" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598249919890" />
-    <state width="2539" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598530717804" />
+    <state width="2539" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598947016534" />
     <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1598249919890">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -526,17 +594,17 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="918" y="460" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1595763458764" />
-    <state x="1418" y="332" key="SettingsEditor" timestamp="1595763327594">
+    <state x="1418" y="332" key="SettingsEditor" timestamp="1598879163772">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
-    <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1595763327594" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1598446671897">
+    <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1598879163772" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1598597107447">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597904269420" />
     <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597409039149" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1598446671897" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1598597107447" />
     <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1595181259910">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
