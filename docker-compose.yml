@@ -7,7 +7,7 @@ services:
       - PMA_PORT=3306
       - PMA_USER=bn_opencart
     ports:
-      - '8080:80'
+      - '8089:80'
   mariadb:
     image: 'docker.io/bitnami/mariadb:10.3-debian-10'
     environment:
@@ -16,8 +16,8 @@ services:
       - ALLOW_EMPTY_PASSWORD=yes
     volumes:
       - 'mariadb_data:/bitnami'
-      ports:
-        - '3306:3306'
+    ports:
+      - '3306:3306'
   opencart:
     image: 'docker.io/bitnami/opencart:3-debian-10'
     environment:
