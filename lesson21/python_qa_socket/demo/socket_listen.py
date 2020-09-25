@@ -2,7 +2,7 @@ import socket
 
 my_socket = socket.socket()
 host = socket.gethostname()
-address_and_port = (host, 8889)
+address_and_port = (host, 8871)
 my_socket.bind(address_and_port)
 
 # https://docs.python.org/3/library/socket.html#socket.socket.listen

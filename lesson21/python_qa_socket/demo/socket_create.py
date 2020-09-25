@@ -1,8 +1,8 @@
 import socket
 
 # Посмотрим что там за добро внутри
-# for el in dir(socket):
-#     print(el)
+#for el in dir(socket):
+#    print(el)
 
 """
 family
