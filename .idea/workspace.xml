@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson19/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/dz/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/dz/nginx_logs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/dz/test_check_log_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson25/Docker.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson25/python_qa_docker/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson25/python_qa_docker/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson25/python_qa_docker/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson25/python_qa_docker/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +69,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seleniumpython" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python38/Tools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson19\dz" />
       <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson12\dz\test" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson6\dz\1" />
     </key>
@@ -78,7 +86,7 @@
       <recent name="C:\Users\dimon\PycharmProjects\OtusPythonQAJune2020\lesson4\dz4\4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.socket_resv">
+  <component name="RunManager" selected="Python tests.pytest for test_check_log_file.test_check_log">
     <configuration name="socket_accept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,27 +121,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_connect.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="socket_listen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OtusPythonQAJune2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_listen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,20 +187,36 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_check_log_file.test_check_log" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
+      <option name="_new_target" value="&quot;test_check_log_file.test_check_log&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.socket_listen" />
       <item itemvalue="Python.socket_accept" />
       <item itemvalue="Python.socket_connect" />
       <item itemvalue="Python.socket_send" />
       <item itemvalue="Python.socket_resv" />
+      <item itemvalue="Python tests.pytest for test_check_log_file.test_check_log" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_check_log_file.test_check_log" />
         <item itemvalue="Python.socket_resv" />
         <item itemvalue="Python.socket_send" />
         <item itemvalue="Python.socket_connect" />
         <item itemvalue="Python.socket_accept" />
-        <item itemvalue="Python.socket_listen" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601021117232</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="lesson25">
+      <created>1601617763558</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1601617763558</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +487,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lesson 2" />
     <MESSAGE value="lesson 3" />
     <MESSAGE value="dz 1" />
     <MESSAGE value="dz 1 - исправление" />
@@ -502,7 +511,8 @@
     <MESSAGE value="lesson20" />
     <MESSAGE value="lesson21" />
     <MESSAGE value="lesson23" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson23" />
+    <MESSAGE value="lesson25" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson25" />
   </component>
   <component name="WindowStateProjectService">
     <state x="986" y="470" key="#Log_Highlighting_(ideolog)" timestamp="1598363426161">
@@ -537,11 +547,11 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
-    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1601021110667">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="2600" y="198" key="CommitChangelistDialog2" timestamp="1601617753742">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="567" y="33" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1597904260679" />
-    <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600406574414" />
+    <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601617753742" />
     <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1601021110667" />
     <state width="950" height="466" key="DebuggerActiveHint" timestamp="1597326193423">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -551,12 +561,12 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593459902468" />
-    <state x="3193" y="338" key="FileChooserDialogImpl" timestamp="1601450575487">
+    <state x="3193" y="338" key="FileChooserDialogImpl" timestamp="1601644359686">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="1061" y="280" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1597929239243" />
     <state x="1273" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598245807636" />
-    <state x="3193" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601450575487" />
+    <state x="3193" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601644359686" />
     <state x="1697" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599747867523" />
     <state x="1027" y="565" key="Github.CreatePullRequestDialog" timestamp="1593458577531">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -571,53 +581,53 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1600411290745">
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1601646986826">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600411290745" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
     <state width="2539" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598947236763" />
-    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1600411290745">
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1601646986826">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600411290745" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
     <state width="2539" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598947236763" />
-    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1600411290745">
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1601646986826">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600411290745" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
     <state width="2539" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598947236763" />
-    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1600411290745">
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1601646986826">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
-    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600411290745" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
     <state width="2539" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598947236763" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1600411290724">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1601646986826">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600411290724" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
     <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1600411290724">
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1601646986826">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600411290724" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
     <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1600411290723">
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1601646986826">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600411290723" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
     <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1600411290724">
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1601646986826">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600411290724" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
     <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
     <state x="248" y="121" key="MergeDialog" timestamp="1595763451071">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -627,17 +637,17 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="918" y="460" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1595763458764" />
-    <state x="2362" y="109" key="SettingsEditor" timestamp="1600148284021">
+    <state x="2362" y="109" key="SettingsEditor" timestamp="1601644364101">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
-    <state x="2362" y="109" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600148284021" />
+    <state x="2362" y="109" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601644364101" />
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1598879163772" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1601021129451">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="2574" y="320" key="Vcs.Push.Dialog.v2" timestamp="1601617782175">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597904269420" />
-    <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600406590973" />
+    <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601617782175" />
     <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1601021129451" />
     <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1595181259910">
       <screen x="0" y="0" width="1600" height="860" />

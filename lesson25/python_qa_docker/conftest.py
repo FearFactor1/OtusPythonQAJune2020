@@ -32,7 +32,7 @@ def pytest_addoption(parser):
     parser.addoption(
         "--executor",
         # Локальный ip адресс хоста где selenium
-        default="192.168.1.68",
+        default="10.20.30.57",
     )
 
 
@@ -47,7 +47,7 @@ def remote(request):
     browser = request.config.getoption("--browser")
     executor = request.config.getoption("--executor")
     driver = webdriver.Remote(
-        command_executor=f"http://{executor}:4444/wd/hub",
+        command_executor=f"http://{executor}:4445/wd/hub",
         desired_capabilities={"browserName": browser}
     )
     allure.attach(body=json.dumps(driver.capabilities), attachment_type=allure.attachment_type.JSON)
