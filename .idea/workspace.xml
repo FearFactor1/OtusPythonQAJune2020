@@ -20,27 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson21/Socket.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/os/os_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/subprocess/example_com.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/subprocess/ping.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/sys/arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/sys/error.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/sys/exit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/sys/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/sys/stderr_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/sys/stdout_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23/linuxfrompython/linuxfrompython-master/sys/sys_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_accept.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_accept.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_bind.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_bind.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_connect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_create.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_create.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_listen.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_listen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_resv.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_resv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_send.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +62,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson20/dz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seleniumpython" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -473,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600406580549</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="lesson23">
+      <created>1601021117232</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1601021117232</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +477,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="проверка пуш" />
     <MESSAGE value="lesson 2" />
     <MESSAGE value="lesson 3" />
     <MESSAGE value="dz 1" />
@@ -515,7 +501,8 @@
     <MESSAGE value="dz 6" />
     <MESSAGE value="lesson20" />
     <MESSAGE value="lesson21" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson21" />
+    <MESSAGE value="lesson23" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson23" />
   </component>
   <component name="WindowStateProjectService">
     <state x="986" y="470" key="#Log_Highlighting_(ideolog)" timestamp="1598363426161">
@@ -550,12 +537,12 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
-    <state x="2600" y="198" key="CommitChangelistDialog2" timestamp="1600406574414">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1601021110667">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="567" y="33" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1597904260679" />
     <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600406574414" />
-    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1598947905631" />
+    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1601021110667" />
     <state width="950" height="466" key="DebuggerActiveHint" timestamp="1597326193423">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -564,12 +551,12 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593459902468" />
-    <state x="3193" y="338" key="FileChooserDialogImpl" timestamp="1600149201486">
+    <state x="3193" y="338" key="FileChooserDialogImpl" timestamp="1601450575487">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="1061" y="280" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1597929239243" />
     <state x="1273" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598245807636" />
-    <state x="3193" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600149201486" />
+    <state x="3193" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601450575487" />
     <state x="1697" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599747867523" />
     <state x="1027" y="565" key="Github.CreatePullRequestDialog" timestamp="1593458577531">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -646,12 +633,12 @@
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
     <state x="2362" y="109" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600148284021" />
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1598879163772" />
-    <state x="2574" y="320" key="Vcs.Push.Dialog.v2" timestamp="1600406590973">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1601021129451">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597904269420" />
     <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600406590973" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1598947912594" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1601021129451" />
     <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1595181259910">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
