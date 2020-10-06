@@ -20,14 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson19/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson19/dz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson19/dz/nginx_logs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson19/dz/test_check_log_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson25/Docker.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/dz/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson19/dz/statistics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/Docker 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/src/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/src/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/src/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/src/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/multi_container/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/tests/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/tests/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/tests/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/tests/test_my_superbook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson25/python_qa_docker/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson25/python_qa_docker/.dockerignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson25/python_qa_docker/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson25/python_qa_docker/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson19/dz/test_check_log_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson19/dz/test_check_log_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,15 +82,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python38/Tools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson19\dz" />
-      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson12\dz\test" />
-      <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson6\dz\1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson20\dz" />
       <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson14\dz" />
@@ -85,50 +93,13 @@
       <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson12\dz" />
       <recent name="C:\Users\dimon\PycharmProjects\OtusPythonQAJune2020\lesson4\dz4\4" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson19\dz" />
+      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson12\dz\test" />
+      <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson6\dz\1" />
+    </key>
   </component>
   <component name="RunManager" selected="Python tests.pytest for test_check_log_file.test_check_log">
-    <configuration name="socket_accept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OtusPythonQAJune2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_accept.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="socket_connect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OtusPythonQAJune2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_connect.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="socket_resv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,27 +113,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_resv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="socket_send" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OtusPythonQAJune2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_send.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,6 +137,38 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_check_log_file.test_Lexer" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
+      <option name="_new_target" value="&quot;test_check_log_file.test_Lexer&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_check_log_file.test_Lexer.test_lex" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
+      <option name="_new_target" value="&quot;test_check_log_file.test_Lexer.test_lex&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_check_log_file.test_check_log" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,20 +185,36 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in test_pageobject_opencart.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson14/dz/test/test_pageobject_opencart.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.socket_accept" />
-      <item itemvalue="Python.socket_connect" />
-      <item itemvalue="Python.socket_send" />
       <item itemvalue="Python.socket_resv" />
       <item itemvalue="Python tests.pytest for test_check_log_file.test_check_log" />
+      <item itemvalue="Python tests.pytest in test_pageobject_opencart.py" />
+      <item itemvalue="Python tests.pytest for test_check_log_file.test_Lexer" />
+      <item itemvalue="Python tests.pytest for test_check_log_file.test_Lexer.test_lex" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.pytest for test_check_log_file.test_check_log" />
+        <item itemvalue="Python tests.pytest for test_check_log_file.test_Lexer.test_lex" />
+        <item itemvalue="Python tests.pytest for test_check_log_file.test_Lexer" />
+        <item itemvalue="Python tests.pytest in test_pageobject_opencart.py" />
         <item itemvalue="Python.socket_resv" />
-        <item itemvalue="Python.socket_send" />
-        <item itemvalue="Python.socket_connect" />
-        <item itemvalue="Python.socket_accept" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601617763558</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="dz7">
+      <created>1601660397310</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1601660397310</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -487,7 +492,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lesson 3" />
     <MESSAGE value="dz 1" />
     <MESSAGE value="dz 1 - исправление" />
     <MESSAGE value="dz 2" />
@@ -512,9 +516,14 @@
     <MESSAGE value="lesson21" />
     <MESSAGE value="lesson23" />
     <MESSAGE value="lesson25" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson25" />
+    <MESSAGE value="dz7" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz7" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="872" y="358" width="816" height="730" key="#Intentions" timestamp="1601966186608">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" width="816" height="730" key="#Intentions/0.0.2560.1400@0.0.2560.1400" timestamp="1601966186608" />
     <state x="986" y="470" key="#Log_Highlighting_(ideolog)" timestamp="1598363426161">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -531,10 +540,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598946898572" />
-    <state x="1056" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598360175928">
+    <state x="1056" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601985102581">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1056" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1598360175928" />
+    <state x="1056" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1601985102581" />
     <state x="960" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598602816321">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -547,12 +556,12 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
-    <state x="2600" y="198" key="CommitChangelistDialog2" timestamp="1601617753742">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1601660394938">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="567" y="33" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1597904260679" />
     <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601617753742" />
-    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1601021110667" />
+    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1601660394938" />
     <state width="950" height="466" key="DebuggerActiveHint" timestamp="1597326193423">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -581,54 +590,54 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1601646986826">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="397" key="GridCell.Tab.0.bottom" timestamp="1601985003203">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598947236763" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1601646986826">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601985003203" />
+    <state width="2539" height="397" key="GridCell.Tab.0.center" timestamp="1601985003203">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598947236763" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1601646986826">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="397" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601985003203" />
+    <state width="2539" height="397" key="GridCell.Tab.0.left" timestamp="1601985003202">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598947236763" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1601646986826">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="397" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601985003202" />
+    <state width="2539" height="397" key="GridCell.Tab.0.right" timestamp="1601985003203">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598947236763" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1601646986826">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="397" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601985003203" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1601967310334">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1601646986826">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601967310334" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1601967310334">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
     <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1601646986826">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601967310334" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1601967310334">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
     <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1601646986826">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601967310334" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1601967310334">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598011263207" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601967310334" />
     <state x="248" y="121" key="MergeDialog" timestamp="1595763451071">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -643,21 +652,25 @@
     <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
     <state x="2362" y="109" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601644364101" />
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1598879163772" />
-    <state x="2574" y="320" key="Vcs.Push.Dialog.v2" timestamp="1601617782175">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1601660405087">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597904269420" />
     <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601617782175" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1601021129451" />
-    <state width="805" height="435" key="XDebugger.FullValuePopup" timestamp="1595181259910">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1601660405087" />
+    <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1601900642192">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="805" height="435" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1595181259910" />
-    <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1594550434632" />
+    <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1601900642192" />
     <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593459966165">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1593459966165" />
+    <state x="842" y="428" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601888101074">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="842" y="428" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1400@0.0.2560.1400" timestamp="1601888101074" />
     <state x="1040" y="487" key="git4idea.merge.GitMergeDialog" timestamp="1593459896843">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
