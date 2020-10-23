@@ -20,27 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson19/dz/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson19/dz/statistics.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/Docker 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/src/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/src/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/src/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/flask_site/src/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/multi_container/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/tests/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/tests/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/tests/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26/pyhton_qa_docker2/tests/test_my_superbook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson19/dz/test_check_log_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson19/dz/test_check_log_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson25/python_qa_docker/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson25/python_qa_docker/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,28 +80,7 @@
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson6\dz\1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_check_log_file.test_check_log">
-    <configuration name="socket_resv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OtusPythonQAJune2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson21/python_qa_socket/demo/socket_resv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.pytest for test_ui.test_avito_0">
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +97,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_check_log_file.test_Lexer" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_api.test_api_post_request" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +109,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
-      <option name="_new_target" value="&quot;test_check_log_file.test_Lexer&quot;" />
+      <option name="_new_target" value="&quot;test_api.test_api_post_request&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_check_log_file.test_Lexer.test_lex" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_ui.test_avito_0" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +125,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
-      <option name="_new_target" value="&quot;test_check_log_file.test_Lexer.test_lex&quot;" />
+      <option name="_new_target" value="&quot;test_ui.test_avito_0&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_check_log_file.test_check_log" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_ui.test_google_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,11 +141,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
-      <option name="_new_target" value="&quot;test_check_log_file.test_check_log&quot;" />
+      <option name="_new_target" value="&quot;test_ui.test_google_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_pageobject_opencart.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_ui.test_yandex_0" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="OtusPythonQAJune2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,24 +157,40 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson14/dz/test/test_pageobject_opencart.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_ui.test_yandex_0&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_ui.test_yandex_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OtusPythonQAJune2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14/dz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir allure-report&quot;" />
+      <option name="_new_target" value="&quot;test_ui.test_yandex_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.socket_resv" />
-      <item itemvalue="Python tests.pytest for test_check_log_file.test_check_log" />
-      <item itemvalue="Python tests.pytest in test_pageobject_opencart.py" />
-      <item itemvalue="Python tests.pytest for test_check_log_file.test_Lexer" />
-      <item itemvalue="Python tests.pytest for test_check_log_file.test_Lexer.test_lex" />
+      <item itemvalue="Python tests.pytest for test_api.test_api_post_request" />
+      <item itemvalue="Python tests.pytest for test_ui.test_google_1" />
+      <item itemvalue="Python tests.pytest for test_ui.test_avito_0" />
+      <item itemvalue="Python tests.pytest for test_ui.test_yandex_1" />
+      <item itemvalue="Python tests.pytest for test_ui.test_yandex_0" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_check_log_file.test_check_log" />
-        <item itemvalue="Python tests.pytest for test_check_log_file.test_Lexer.test_lex" />
-        <item itemvalue="Python tests.pytest for test_check_log_file.test_Lexer" />
-        <item itemvalue="Python tests.pytest in test_pageobject_opencart.py" />
-        <item itemvalue="Python.socket_resv" />
+        <item itemvalue="Python tests.pytest for test_ui.test_avito_0" />
+        <item itemvalue="Python tests.pytest for test_ui.test_yandex_0" />
+        <item itemvalue="Python tests.pytest for test_ui.test_google_1" />
+        <item itemvalue="Python tests.pytest for test_ui.test_yandex_1" />
+        <item itemvalue="Python tests.pytest for test_api.test_api_post_request" />
       </list>
     </recent_temporary>
   </component>
@@ -528,10 +504,6 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="986" y="470" key="#Log_Highlighting_(ideolog)/0.0.2560.1400@0.0.2560.1400" timestamp="1598363426161" />
-    <state x="1165" y="561" width="751" height="277" key="#Notifications" timestamp="1593459795732">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1165" y="561" width="751" height="277" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1593459795732" />
     <state x="872" y="340" key="#Plugins" timestamp="1598602966865">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -544,9 +516,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1056" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1601985102581" />
-    <state x="960" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598602816321">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="720" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602507067733">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="720" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602507067733" />
     <state x="960" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598602816321" />
     <state x="1010" y="445" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594550538992">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -566,10 +539,6 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="950" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597326193423" />
-    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1593459902468">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593459902468" />
     <state x="3193" y="338" key="FileChooserDialogImpl" timestamp="1601644359686">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -577,67 +546,58 @@
     <state x="1273" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598245807636" />
     <state x="3193" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601644359686" />
     <state x="1697" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599747867523" />
-    <state x="1027" y="565" key="Github.CreatePullRequestDialog" timestamp="1593458577531">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1027" y="565" key="Github.CreatePullRequestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593458577531" />
     <state x="1099" y="367" key="Github.ShareDialog" timestamp="1594737866614">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1099" y="367" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1594737866614" />
-    <state x="1759" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593459957972" />
-    <state x="1708" y="405" key="Github.UntrackedFilesDialog" timestamp="1593456840594">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1708" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593456840594" />
-    <state width="2539" height="397" key="GridCell.Tab.0.bottom" timestamp="1601985003203">
+    <state width="2539" height="397" key="GridCell.Tab.0.bottom" timestamp="1603095330732">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601985003203" />
-    <state width="2539" height="397" key="GridCell.Tab.0.center" timestamp="1601985003203">
+    <state width="2539" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1603095330732" />
+    <state width="2539" height="397" key="GridCell.Tab.0.center" timestamp="1603095330732">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="397" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601985003203" />
-    <state width="2539" height="397" key="GridCell.Tab.0.left" timestamp="1601985003202">
+    <state width="2539" height="397" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1603095330732" />
+    <state width="2539" height="397" key="GridCell.Tab.0.left" timestamp="1603095330732">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="397" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601985003202" />
-    <state width="2539" height="397" key="GridCell.Tab.0.right" timestamp="1601985003203">
+    <state width="2539" height="397" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1603095330732" />
+    <state width="2539" height="397" key="GridCell.Tab.0.right" timestamp="1603095330732">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="397" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601985003203" />
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1601967310334">
+    <state width="2539" height="397" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1603095330732" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1603094439136">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601967310334" />
-    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1601967310334">
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1603094439136" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1603094439136">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
     <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601967310334" />
-    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1601967310334">
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1603094439136" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1603094439136">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
     <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601967310334" />
-    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1601967310334">
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1603094439136" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1603094439136">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="271" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1595453821516" />
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601646986826" />
-    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601967310334" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1603094439136" />
     <state x="248" y="121" key="MergeDialog" timestamp="1595763451071">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -663,27 +623,14 @@
     </state>
     <state width="805" height="435" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1595181259910" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1601900642192" />
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593459966165">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1089" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1593459966165" />
     <state x="842" y="428" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601888101074">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="842" y="428" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1400@0.0.2560.1400" timestamp="1601888101074" />
-    <state x="1040" y="487" key="git4idea.merge.GitMergeDialog" timestamp="1593459896843">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1040" y="487" key="git4idea.merge.GitMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593459896843" />
-    <state x="968" y="487" key="git4idea.merge.GitPullDialog" timestamp="1594241539313">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="968" y="487" key="git4idea.merge.GitPullDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594241539313" />
     <state x="653" y="369" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594740482331">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="653" y="369" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1594740482331" />
-    <state x="1044" y="600" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593460838320" />
     <state x="2723" y="305" key="refactoring.ChangeSignatureDialog" timestamp="1597214580073">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
