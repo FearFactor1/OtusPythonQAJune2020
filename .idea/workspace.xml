@@ -20,8 +20,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson29/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Resources/Common.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Results/selenium-screenshot-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/Tests/admin.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/dz/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson29/intellibot.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson29/python_qa_robot_part1/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson29/python_qa_robot_part1/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,21 +93,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson29/dz/1" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson20\dz" />
-      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson14\dz" />
-      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson14" />
-      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson12\dz" />
-      <recent name="C:\Users\dimon\PycharmProjects\OtusPythonQAJune2020\lesson4\dz4\4" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson19\dz" />
       <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson12\dz\test" />
       <recent name="C:\Users\1\PycharmProjects\OtusPythonQAJune2020\lesson6\dz\1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson29\dz\1" />
+      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson20\dz" />
+      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson14\dz" />
+      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson14" />
+      <recent name="C:\PycharmProjects\OtusPythonQAJune2020\lesson12\dz" />
     </key>
   </component>
   <component name="RunManager" selected="Python tests.pytest for test_ui.test_avito_0">
@@ -458,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603429289870</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="lesson29">
+      <created>1603432083393</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1603432083393</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,29 +556,25 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598946898572" />
-    <state x="2712" y="372" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603430196664">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="1056" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603717195842">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="2712" y="372" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603430196664" />
-    <state x="1056" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1601985102581" />
+    <state x="1056" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1603717195842" />
     <state x="720" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602507067733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="720" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602507067733" />
     <state x="960" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598602816321" />
-    <state x="1010" y="445" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594550538992">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1010" y="445" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594550538992" />
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts" timestamp="1595444472061">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="13" key="#pytest_for_test_jsonplaceholder.TestClassJsonplaceholder.test_100_posts/0.0.1600.860@0.0.1600.860" timestamp="1595444472061" />
-    <state x="2600" y="198" key="CommitChangelistDialog2" timestamp="1603429280166">
+    <state x="2600" y="198" key="CommitChangelistDialog2" timestamp="1603432080934">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="567" y="33" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1597904260679" />
-    <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603429280166" />
+    <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603432080934" />
     <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1601660394938" />
     <state width="950" height="466" key="DebuggerActiveHint" timestamp="1597326193423">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -554,34 +587,30 @@
     <state x="1273" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598245807636" />
     <state x="3193" y="338" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601644359686" />
     <state x="1697" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599747867523" />
-    <state x="1099" y="367" key="Github.ShareDialog" timestamp="1594737866614">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="1099" y="367" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1594737866614" />
-    <state width="2539" height="492" key="GridCell.Tab.0.bottom" timestamp="1603430252296">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="559" key="GridCell.Tab.0.bottom" timestamp="1603723339363">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2539" height="492" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603430252296" />
-    <state width="2539" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1603095330732" />
-    <state width="2539" height="492" key="GridCell.Tab.0.center" timestamp="1603430252296">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="559" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1603723339363" />
+    <state width="2539" height="559" key="GridCell.Tab.0.center" timestamp="1603723339363">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2539" height="492" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603430252296" />
-    <state width="2539" height="397" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1603095330732" />
-    <state width="2539" height="492" key="GridCell.Tab.0.left" timestamp="1603430252295">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="559" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1603723339363" />
+    <state width="2539" height="559" key="GridCell.Tab.0.left" timestamp="1603723339363">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2539" height="492" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603430252295" />
-    <state width="2539" height="397" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1603095330732" />
-    <state width="2539" height="492" key="GridCell.Tab.0.right" timestamp="1603430252296">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="2539" height="559" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1603723339363" />
+    <state width="2539" height="559" key="GridCell.Tab.0.right" timestamp="1603723339363">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1578" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595537194384" />
     <state width="2539" height="492" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603430252296" />
-    <state width="2539" height="397" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1603095330732" />
+    <state width="2539" height="559" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1603723339363" />
     <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1603430252296">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -614,17 +643,16 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="918" y="460" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1595763458764" />
-    <state x="2362" y="109" key="SettingsEditor" timestamp="1601644364101">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="1418" y="332" key="SettingsEditor" timestamp="1603723337922">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="602" y="122" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594738724441" />
-    <state x="2362" y="109" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601644364101" />
-    <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1598879163772" />
-    <state x="2574" y="320" key="Vcs.Push.Dialog.v2" timestamp="1603429313218">
+    <state x="2362" y="109" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603458694053" />
+    <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1603723337922" />
+    <state x="2574" y="320" key="Vcs.Push.Dialog.v2" timestamp="1603432091664">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="545" y="265" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597904269420" />
-    <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603429313218" />
+    <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603432091664" />
     <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1601660405087" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1601900642192">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -635,10 +663,6 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="842" y="428" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1400@0.0.2560.1400" timestamp="1601888101074" />
-    <state x="653" y="369" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594740482331">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="653" y="369" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1594740482331" />
     <state x="2723" y="305" key="refactoring.ChangeSignatureDialog" timestamp="1597214580073">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
