@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="" />
+    <list default="true" id="ffa898b6-a5f9-4f7f-8990-170b3423544f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -476,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608741156813</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="lesson19">
+      <created>1609154405100</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1609154405100</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +502,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="dz 2 - исправление" />
     <MESSAGE value="dz 3" />
     <MESSAGE value="lesson9" />
     <MESSAGE value="docker" />
@@ -518,7 +526,8 @@
     <MESSAGE value="lesson29" />
     <MESSAGE value="dz9 + lesson30" />
     <MESSAGE value="lesson33" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson33" />
+    <MESSAGE value="lesson19" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="358" width="816" height="730" key="#Intentions" timestamp="1601966186608">
@@ -538,11 +547,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="720" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602507067733" />
-    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1608741156368">
+    <state x="907" y="267" key="CommitChangelistDialog2" timestamp="1609154404684">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="2600" y="198" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603432080934" />
-    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1608741156368" />
+    <state x="907" y="267" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1609154404684" />
     <state x="1697" y="455" key="FileChooserDialogImpl" timestamp="1606756533965">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -593,11 +602,11 @@
     </state>
     <state x="2362" y="109" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603458694053" />
     <state x="1418" y="332" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1603723337922" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1608741164834">
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2" timestamp="1609154413745">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="2574" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603432091664" />
-    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1608741164834" />
+    <state x="872" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1609154413745" />
     <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1601900642192">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
